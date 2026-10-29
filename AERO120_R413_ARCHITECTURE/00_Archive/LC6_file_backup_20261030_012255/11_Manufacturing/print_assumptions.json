@@ -1,0 +1,6 @@
+{
+  "process": "printed polymer; no sheet metal or bend DXF",
+  "base_mm": 4,
+  "mount_wall_mm": 6,
+  "ribs_mm": 3
+}

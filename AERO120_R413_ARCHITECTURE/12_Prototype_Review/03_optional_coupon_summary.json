@@ -1,0 +1,20 @@
+[
+  {
+    "file": "COUPON_A_axis_1.stl",
+    "valid": true,
+    "PETG_net_g": 0.866201378575229,
+    "scope": "fit only; not a strength specimen or finished product"
+  },
+  {
+    "file": "COUPON_B_axis_1.stl",
+    "valid": true,
+    "PETG_net_g": 0.643649480383505,
+    "scope": "fit only; not a strength specimen or finished product"
+  },
+  {
+    "file": "COUPON_fan_corner_1.stl",
+    "valid": true,
+    "PETG_net_g": 4.992805799000665,
+    "scope": "fit only; not a strength specimen or finished product"
+  }
+]

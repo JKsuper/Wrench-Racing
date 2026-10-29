@@ -1,0 +1,21 @@
+{
+  "main_files_identical_to_current_STL": true,
+  "main_file_count": 4,
+  "optional_coupons": {
+    "COUPON_A_axis_1.stl": {
+      "sha256": "fef4f559726891047bf9c0c3c23654ba63dce38307b61ce7a5b2c01ce4ae87c7",
+      "regions": 1,
+      "bad_edges": 0
+    },
+    "COUPON_B_axis_1.stl": {
+      "sha256": "7f7945b29dfd862be4038ce090347bcaac3c3d4c022cded5adbb150cffcef1e2",
+      "regions": 1,
+      "bad_edges": 0
+    },
+    "COUPON_fan_corner_1.stl": {
+      "sha256": "9f82e9c0fda8972481bcd069b2f19549e2fd9eefe6fbbf7f154c40deedb66f14",
+      "regions": 1,
+      "bad_edges": 0
+    }
+  }
+}

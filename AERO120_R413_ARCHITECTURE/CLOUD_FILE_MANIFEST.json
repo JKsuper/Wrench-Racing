@@ -1,0 +1,2210 @@
+{
+  "revision": "R4.13-LC8",
+  "files": [
+    {
+      "path": "00_Archive/before_LC1_20261029_223547/README.md",
+      "bytes": 626,
+      "sha256": "5bc071cb3281a6aef9f1d2fc2ebfe0a016f1c73a84bf1e7fcc0ffc2750e10f7d"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/AGENTS.md",
+      "bytes": 2086,
+      "sha256": "d4125887a564a65e67474460c39ce969d527448dfdab043f5f292cf8a696f600"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/airpath.py",
+      "bytes": 931,
+      "sha256": "54c61e32e6e1294162703aad67b02c43231892229a96afd8cbf315ba92997c81"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/build.py",
+      "bytes": 10253,
+      "sha256": "588e388b2cf37aefc18128bfd9048832a532b50d33c41d1ed861fc00e693a112"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/model.py",
+      "bytes": 7643,
+      "sha256": "e8a1abeca25fe099779fa43018d71d1cf32e7de99dd6d2905a4e0eb1840fefc6"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/parameters.json",
+      "bytes": 653,
+      "sha256": "ea9ab94991abf0e20de0a50ce584c1066cd1e30112d54eee5d120e333a773da1"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/run_local.ps1",
+      "bytes": 515,
+      "sha256": "27c54fcc403c3c7dcceee6369e93a6ff70c890ca27050853de70ae7cea225356"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/03_Codex/low_cost/test_engineering.py",
+      "bytes": 4201,
+      "sha256": "45dc7324f5219ace6a63d369d45bc005b05b1d98e41283a7c856b887d9cdb089"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_A_duct.step",
+      "bytes": 553885,
+      "sha256": "27d615087031d018f236bc7fc097bde3f1a5c8cee630dd774e7ddfc8c4a8c810"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_B_STRIKE_mask.step",
+      "bytes": 574700,
+      "sha256": "c374d49c1f686b62780388a8920db18a48b6e14bd477377ff1008b60a23312f8"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_C_twin_louver.step",
+      "bytes": 139062,
+      "sha256": "def46212dd30e19d0fbdbf3da76fb51e94178bcfe798145fb8757e0a007f86be"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_D_common_bracket.step",
+      "bytes": 83549,
+      "sha256": "b2beb64eae1af3ccfab69b9e06e3da3982d23fdb9ee6ea00ebe3fc41eda8d0ba"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_E_fan_gasket_installed.step",
+      "bytes": 33937,
+      "sha256": "dd6b605806cefa6a986f7831dec9f6b6808ea7369dd42e2f51a30c287b0e221a"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_F_mask_gasket_installed.step",
+      "bytes": 62477,
+      "sha256": "a57917f1dc6c4f3ab275194571d3e830fa617a4a988cff2bafc2225251a73017"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_washer_-15_30.step",
+      "bytes": 10736,
+      "sha256": "54f722883b6d977e121219ebd9df19a0b1913e4922e1b0f933354fd7a0c1c3da"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_washer_-15_50.step",
+      "bytes": 10736,
+      "sha256": "570702eee93ede98e5b9cc457d6a2183a1241981fdd278f4e7cd820ac5602f49"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_washer_15_30.step",
+      "bytes": 10722,
+      "sha256": "f97611df1e57e9498842b581212e71b553f9d287b3a2c00b27b544c430fec0ea"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/L_washer_15_50.step",
+      "bytes": 10722,
+      "sha256": "deaf20ba124e82117680cca30c1b9e997b3dcbde5ed4230bee332e7d2b777268"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_A_duct.step",
+      "bytes": 577386,
+      "sha256": "de9a508aabad40ee6fc551167fe7f08666c04db6ab278c22a0910d6b4d74aef7"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_B_STRIKE_mask.step",
+      "bytes": 573994,
+      "sha256": "d67c9c4b26902cd11f98098a5e4f80189e1acd04374524f34034e910f2726fe5"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_C_twin_louver.step",
+      "bytes": 139597,
+      "sha256": "0b1b406b1138e4c2061fb8c5595e2d394431fc5d8eea5d4d54d046f43a1ff9f9"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_D_common_bracket.step",
+      "bytes": 83284,
+      "sha256": "56d82b602d44a19dc88377050252e7e7c1cb01066b84645e82346126af4cac44"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_E_fan_gasket_installed.step",
+      "bytes": 39344,
+      "sha256": "9b5d4d6ee140044530f7b36b3fd191d75d2a0cd9a3727164592f885e16f40a3a"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_F_mask_gasket_installed.step",
+      "bytes": 62340,
+      "sha256": "e51e90517a0eaeee52d0df66d8d05b111950554f277c7570e8c304997808e1ce"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_washer_-15_30.step",
+      "bytes": 10744,
+      "sha256": "51edc68c818986be07506f26f346588dc2a15555fb06e5bb76b36c52a02aad5d"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_washer_-15_50.step",
+      "bytes": 10744,
+      "sha256": "b6a87d7bc38acd20c3494294554eb575213fd37dc4b090b1851f66c92b4967ed"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_washer_15_30.step",
+      "bytes": 10730,
+      "sha256": "9c3cc48322108f367c8d4a3184eb455c2582856c71ba1754073e74812fc1a48d"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/05_STEP/R_washer_15_50.step",
+      "bytes": 10730,
+      "sha256": "bffbff972f0fc462962c89375f1807437f2194cc717300b693bcf8e359fb99f9"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_A_duct.stl",
+      "bytes": 457284,
+      "sha256": "568619d0ace64bbf04887517fe444971795517569a3520c968c7abe09a7aaf39"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_B_STRIKE_mask.stl",
+      "bytes": 182784,
+      "sha256": "cfa781bb2a2e445c8f64111ac72287f1dc95eb6d3c2d443d858913aae27a909d"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_C_twin_louver.stl",
+      "bytes": 132784,
+      "sha256": "bcd7a9060f948143f97638ec250968d54077df6ec97d4b7f743689bdb3911943"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_D_common_bracket.stl",
+      "bytes": 230284,
+      "sha256": "e824254323a4235b47e9d9043a7c07770b7de05334e2f94649061c355de2dcba"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_E_fan_gasket_installed.stl",
+      "bytes": 127684,
+      "sha256": "115d839d2ca1dcc5909efd40c08eb4db6018f2919c939639f51856fbc00087cc"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_F_mask_gasket_installed.stl",
+      "bytes": 3284,
+      "sha256": "32f1fadb1d0e8a7f8a08e163a63fcb1298446bde97920135a34dfc2d991dc10f"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_washer_-15_30.stl",
+      "bytes": 50484,
+      "sha256": "2d14898ac2a65cd84534974afd055f5ee20bd7db599d2804e607ed2fb2c9053c"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_washer_-15_50.stl",
+      "bytes": 50484,
+      "sha256": "0aab690d27dfb4f1135a01040b17bf3585b19523eff50e339772b1654ddbf57b"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_washer_15_30.stl",
+      "bytes": 50484,
+      "sha256": "3a4db3609d306c9fb5c832671a952a2dcdf63173941d8a3d0296c06cc33ca7ec"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/L_washer_15_50.stl",
+      "bytes": 50484,
+      "sha256": "60628cefe96069aa8c6faad0cd8fc9f53d7fbe2a4178fe2b0854aeb1ee8f110c"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_A_duct.stl",
+      "bytes": 457284,
+      "sha256": "b593176e9f3531983ac0e68ce7d1be3b9f2bfac28af34bd5abbc07be889e006b"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_B_STRIKE_mask.stl",
+      "bytes": 182784,
+      "sha256": "32185877d0e5953a96f3c440557f88f64993be0b8e49bf77adf64105333e7979"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_C_twin_louver.stl",
+      "bytes": 132784,
+      "sha256": "a2211019b999d4881e9633259ce44e2997dbf9addaaa9359c2bcc06b638e0979"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_D_common_bracket.stl",
+      "bytes": 230284,
+      "sha256": "33e2cdca5df00d1f9da6e8449278dbe81349475e61086d1894352dd85d2f993a"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_E_fan_gasket_installed.stl",
+      "bytes": 127684,
+      "sha256": "9cc42a5d68d76caa8a36d0775d9f65093296fd37bf18e2b675423e6e181bf9c5"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_F_mask_gasket_installed.stl",
+      "bytes": 3284,
+      "sha256": "663b9a1881061ca19767f3952a928e838c019b0ecaf750c75a37be5707815c73"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_washer_-15_30.stl",
+      "bytes": 50484,
+      "sha256": "3e9f143e2f3eff4157071b937a56f0b3da5005c84499274d43c2071b50e606a6"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_washer_-15_50.stl",
+      "bytes": 50484,
+      "sha256": "3ae8dff6f13b42c6ff1833ad8ab6fadc4816ff9433fed55be19aa1371ce8ab9d"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_washer_15_30.stl",
+      "bytes": 50484,
+      "sha256": "9ea65773f61cadb6eae8388f4694dee707df80423fc02fece34fa118480a344b"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/06_STL/R_washer_15_50.stl",
+      "bytes": 50484,
+      "sha256": "509b49a3ffce61b6c28726bf500b3b1e2a487f8e22735697affaaa468ca1bff3"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/L_crossbar_assembly.step",
+      "bytes": 1594611,
+      "sha256": "f6a46d5dcbf7342e529a86976321fb1aa18c3c261e9184df7e4912e4c971528e"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/L_crossbar_exploded.step",
+      "bytes": 1594622,
+      "sha256": "09578c52d6dc6a298624edd919e167065806ecec2cc36b545e26051485be69ac"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/L_upright_assembly.step",
+      "bytes": 1594609,
+      "sha256": "7e6e8e3f4c6531de7b8ace217cf50c50e1a7551dc55b6eb22e1f5de7ca091b9f"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/L_upright_exploded.step",
+      "bytes": 1594620,
+      "sha256": "5bffc6dde4c862c18d5e4c05db1fe7324724ae3155defaa4ce7530c9f48d579c"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/R_crossbar_assembly.step",
+      "bytes": 1627565,
+      "sha256": "7838b3c893dc1a11bcfe2c3da5d9e8bbe0b32762d4ef1b60b6161d16a0c91ade"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/R_crossbar_exploded.step",
+      "bytes": 1627574,
+      "sha256": "ccc8189e72fd5de4d8257b28705d9d0854cd7d3609081f13a26bbcb4fdd23969"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/R_upright_assembly.step",
+      "bytes": 1627554,
+      "sha256": "92818ce3c72539aee66f0a0c2bf1f618dbb4dd4a21700c6290c6e3bceb475339"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/07_Assembly/R_upright_exploded.step",
+      "bytes": 1627572,
+      "sha256": "524bf3736a6ea27a963ba0611080bc99744a3a685186e68e774c52e2876f4813"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/08_BOM/BOM_单侧.csv",
+      "bytes": 1844,
+      "sha256": "5e505e00b3e624e63c0536b0d3549c3630907aab5eb0ebb3759de7a67c5d5d59"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/08_BOM/成本预算与询价.csv",
+      "bytes": 377,
+      "sha256": "5f5d158e5125155f8a5962ca995539a8c9b236f583b89de515a64fc3f9588f89"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/08_BOM/材料量比较.csv",
+      "bytes": 404,
+      "sha256": "73ff15a0a26412b9d9baa8895ea1c4ec92472585ec30b725d7eec7c19249a413"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/09_Test_Reports/geometry.json",
+      "bytes": 23679,
+      "sha256": "7695212b31efff41368d064dcb237edb9b7ac7a26409612852616b03e43cda51"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/09_Test_Reports/tests.txt",
+      "bytes": 1911,
+      "sha256": "9df2908adcc23c1223cb91261d09fe2047f89b586c7e077884e106d8d5c6edfc"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/09_Test_Reports/评审结论.md",
+      "bytes": 1460,
+      "sha256": "d7b67d9d6bee30b8f9415e496d21882a27ef99328debada9ff1f80d405892722"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/10_Previews/airpath_section.png",
+      "bytes": 239774,
+      "sha256": "3955674b7668f0805ffa3d6a9e2c85bff646f77bcc7469b1d750779dfd3151fe"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/10_Previews/crossbar_assembly.png",
+      "bytes": 297097,
+      "sha256": "53cb5c9dff0aa410abdec00df7212b4ddadf6370fdaf5ce1ac9bb8d4ba7fe7cc"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/10_Previews/crossbar_exploded.png",
+      "bytes": 295032,
+      "sha256": "ec09ddd69e0548ee1a6e341f29b0d9ce3ec8a44bd1af686524ec38d48fddb454"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/10_Previews/upright_assembly.png",
+      "bytes": 299800,
+      "sha256": "65fedb656ed12072764474d70d9ba2b8b1a46d9e269598f5bb510ef221e21980"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/10_Previews/upright_exploded.png",
+      "bytes": 274236,
+      "sha256": "293827a267f32f0412cee749eb9432925c8903a014c35605c030d15c1d8a74c3"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/bracket_bend_assumptions.json",
+      "bytes": 359,
+      "sha256": "c5d9946f2833f7609bfba9f688a6bbc55605b9e83ab327583e7020f2e254f21a"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/coupons/A_duct_fit_coupon_1.step",
+      "bytes": 74991,
+      "sha256": "e17bb7a98f3eea5ab73fc73118b8874ae4c4fd7207a947f4ec2e4faaba737657"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/coupons/A_duct_fit_coupon_1.stl",
+      "bytes": 3684,
+      "sha256": "8f20a6b6a9d23ad831380553dc698408778042ddf06a68fc29c0cff841a815e4"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/coupons/B_STRIKE_mask_fit_coupon_1.step",
+      "bytes": 312471,
+      "sha256": "0166b95cea77159c9e264f4691ee379d563c2d404415e573e158bdb3bdd1b903"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/coupons/B_STRIKE_mask_fit_coupon_1.stl",
+      "bytes": 66584,
+      "sha256": "b726e0c0df12569a4e9a1e18c3c1a23ba68bf213a4c4444f703ec94b5eb4b25f"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/coupons/C_twin_louver_fit_coupon_1.step",
+      "bytes": 94477,
+      "sha256": "c14da0be1b44a093e0da9008ca151bcb95632ff6a0b599c891382169293cb947"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/coupons/C_twin_louver_fit_coupon_1.stl",
+      "bytes": 79984,
+      "sha256": "bc5032ca70bed326b61d10eb09fb8110f970a17145dd3037d374f0479667f027"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/D_common_bracket_FLAT_K04_UNQUALIFIED.dxf",
+      "bytes": 20270,
+      "sha256": "079612df60d7f62c73ed27e2da2f78590b3e34901933edf66d3696f3400737be"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/11_Manufacturing/制造与风险.md",
+      "bytes": 3413,
+      "sha256": "9c3a617d4f5c1b692ae7aaf39fcd86e4edb9656891d90e5b15efafdba61f4e41"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/AGENTS.md",
+      "bytes": 1034,
+      "sha256": "42c3ecd4c6a4986e908230c500ca151a4a5422e3b4d0afdeb048aa2c67b9e09b"
+    },
+    {
+      "path": "00_Archive/LC1_before_LC2_20261029_231237/README.md",
+      "bytes": 3154,
+      "sha256": "b30825427d8f3975859ddcab7ca054d8cc8b4837fe006660cb9dc59d07f5f814"
+    },
+    {
+      "path": "00_Archive/LC2_before_LC3_20261029_234240/05_STEP/L_A_integrated_shell.step",
+      "bytes": 641280,
+      "sha256": "3e466f52b665882dfe97bc211af8a190d65adcdd0dc562157300f8ceebec66cc"
+    },
+    {
+      "path": "00_Archive/LC2_before_LC3_20261029_234240/05_STEP/L_B_twin_louver.step",
+      "bytes": 93753,
+      "sha256": "5f30931ceb889c4c379f6fd50b8d43c80c08b64ae4c827d336073dcbdb7843dd"
+    },
+    {
+      "path": "00_Archive/LC2_before_LC3_20261029_234240/05_STEP/L_C_metal_cap_mount_NOT_PRINT.step",
+      "bytes": 96594,
+      "sha256": "2c780b71849f9c0148a849cadef19a644626b71139b000fd5ff1803b00dfa360"
+    },
+    {
+      "path": "00_Archive/LC2_before_LC3_20261029_234240/05_STEP/R_A_integrated_shell.step",
+      "bytes": 645394,
+      "sha256": "9df569e47efd0723798195364c527b1150cdc70f7a311aba39058b7670f28b3d"
+    },
+    {
+      "path": "00_Archive/LC2_before_LC3_20261029_234240/05_STEP/R_B_twin_louver.step",
+      "bytes": 94454,
+      "sha256": "f3543b5f76741a71dde6cbfd40f7c835ed9041bb0c814f0fcacb521de97db72a"
+    },
+    {
+      "path": "00_Archive/LC2_before_LC3_20261029_234240/05_STEP/R_C_metal_cap_mount_NOT_PRINT.step",
+      "bytes": 101823,
+      "sha256": "354d6fde36799e7aa34c2cdc8ca650103c3878808f2e6b055726b8ef10fef56e"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/AGENTS.md",
+      "bytes": 541,
+      "sha256": "4e5100f02f6f99e0565b229feef89feb749766df00f34af1900ea2659026c8e3"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/build.py",
+      "bytes": 9100,
+      "sha256": "d876f61827438e4d22b2e88f28417d5e69be75a0dab0ac1f7d2f9138e865e9dd"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/model.py",
+      "bytes": 7302,
+      "sha256": "0d4caec098113dc134aee90eccd1a646e2226b5bd544428fd4483549ee9b01ff"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/parameters.json",
+      "bytes": 750,
+      "sha256": "ea270dede2e4b6255ffb743a874d43168e0bdc3e84a54b6e8834edecbdc28407"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 606,
+      "sha256": "96f1d5882d84d3838c368cc1f043f630315007f55c9023ba21d3f697bae1ce71"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 3048,
+      "sha256": "d4efdc73b420d3019d6344959275141fca4dc85518890ba2904334d227ac7507"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/03_Codex/simple_lc2/views.py",
+      "bytes": 2550,
+      "sha256": "89c9604632089a5656e4b8c6757064dd84d9fe6c44f1a6c9fa60ab8f7d739073"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/04_QA/LC2_放行门槛.csv",
+      "bytes": 1105,
+      "sha256": "48149a9cc3f8c32db150ae83c5912210c8d6a0758031122a35433f0c164f58a6"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/06_STL/01_A_integrated_shell.stl",
+      "bytes": 235584,
+      "sha256": "8eb77bfd4352b628fa79a808854f515fe73d5c5924aca8dc1a0225d5d2e98711"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "182db627f70f3b80d3c509a02a02de7684b961d658794a70717fb75ebec11000"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/06_STL/PRINT_SELECTION.json",
+      "bytes": 297,
+      "sha256": "e860b4a526e4aa5a27d63f573fb76370830f157fe4d9006977698d19bcb82dc6"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/07_Assembly/L_crossbar.step",
+      "bytes": 1103450,
+      "sha256": "66ee43ffd0a824b1038a583cdd2be6b6f8d67c0cbfba226391b981268548bc08"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/07_Assembly/L_upright.step",
+      "bytes": 1103568,
+      "sha256": "f1fd774f6636248685c005986b2467f7bed4ecbfe43364b3337618e9a3fc6077"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/07_Assembly/R_crossbar.step",
+      "bytes": 1107652,
+      "sha256": "48802af18adf1f35a322d37d72d20d8e211bfacd2e57d0176b7baa932964d56a"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/07_Assembly/R_exploded.step",
+      "bytes": 1107777,
+      "sha256": "bfe58a69fd6a224d1a7905f618a98463c69f4ecd64587f71870821161fffb5fc"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/07_Assembly/R_upright.step",
+      "bytes": 1107761,
+      "sha256": "4cbaea0490a00271b63e4248a30228295ab7105007fae98ea2616b04a113fffb"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/08_BOM/BOM_单侧.csv",
+      "bytes": 1805,
+      "sha256": "8d77894e3198b900f43a2920650033bf4978d3e3e4ddd2c781158907ef63ae42"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/08_BOM/成本预算_待报价.csv",
+      "bytes": 341,
+      "sha256": "a6c61d2a97e0f3d1e390da2507672613f8cf21b470b3e27cb51f3863b878ed0d"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/09_Test_Reports/geometry.json",
+      "bytes": 15553,
+      "sha256": "51a284aa5f92004ec5cb760da0b595f1f52f20123a932d69ca844470c7790775"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/09_Test_Reports/tests.txt",
+      "bytes": 1665,
+      "sha256": "2cacda3bde6e1b9a4c5cd739c24e13646482e56f4cf2ffebfd4a7fa18979e344"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/09_Test_Reports/评审结论.md",
+      "bytes": 1551,
+      "sha256": "1def1e9bc22e3c9554c18d1d5faed52f91ae3108975bcbc6b47965d348390303"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/10_Previews/center_section_dimensions.png",
+      "bytes": 138264,
+      "sha256": "47f410e21301e28558e7b05e1970586617b0540c3c753ab2cf491cbd759dab49"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/10_Previews/crossbar_assembly.png",
+      "bytes": 214243,
+      "sha256": "347a3eeb975f21f3e5513e073580499a237226532a62ef47de1c8aa083ab38d6"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/10_Previews/exploded.png",
+      "bytes": 236843,
+      "sha256": "e626313e5773dd2a84cc9ae73899c68b196fcb69b43d806b740dd3ffb32a3712"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/10_Previews/fan_housing_section.png",
+      "bytes": 207879,
+      "sha256": "916640fa570784e5e6c35b17cfbe6dbb6ca470addf979eb72d7ae45dc730df35"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/10_Previews/upright_assembly.png",
+      "bytes": 226933,
+      "sha256": "4406bb2a86e43e7d35adbb612d6c6719f9d1ac15adee354b9dae03cf2acaa0f4"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/11_Manufacturing/bend_assumptions.json",
+      "bytes": 372,
+      "sha256": "a088efb622fb9ee7d6fa74fa7f81299f3e81194474e7bb24b4c977d55fe9ed95"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/11_Manufacturing/C_metal_cap_mount_FLAT_UNQUALIFIED.dxf",
+      "bytes": 21547,
+      "sha256": "92fabb2e4cb4b4ce1cd4d4066c7d6be38d13be28b90bc3ad79d697942910b8a4"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/11_Manufacturing/制造与装配说明.md",
+      "bytes": 3376,
+      "sha256": "9e3230aade69965675e52b5a8e3b8c3e1b20e382464190f9471b484a61c6f742"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/AGENTS.md",
+      "bytes": 1422,
+      "sha256": "83733a17e3566111d6ee70b54505ae89645e50c11c142f60e1bdf3272a925eea"
+    },
+    {
+      "path": "00_Archive/LC2_file_backup_20261029_234334/README.md",
+      "bytes": 3687,
+      "sha256": "7af1e35ec339f448b518a7cd947e612733a2f5447d3e766dc61196167e2afb44"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/AGENTS.md",
+      "bytes": 548,
+      "sha256": "f338e146d7fa3b1f8e12dd3582f6bb94fdfd71214ee29e1e4cc3feaa71ad6ce5"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/build.py",
+      "bytes": 9629,
+      "sha256": "b4d1196ae405c63b75feeddf0382501b54f6f0c60d576c51bc655ce681e1429f"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/model.py",
+      "bytes": 8028,
+      "sha256": "697bd6250ea3bee64ac204a5149f14245f67208a473d6ab68b0ce1f7f73b9abe"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/parameters.json",
+      "bytes": 843,
+      "sha256": "a9008b95c1e98fea304bbd0d6ed58aa5f9e00858ac8a209c7a7d91777eed2654"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 606,
+      "sha256": "96f1d5882d84d3838c368cc1f043f630315007f55c9023ba21d3f697bae1ce71"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 3338,
+      "sha256": "8bca2da02bac18b6bd2157df64441bd3953cee9b975448cffdd12077642de7b8"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/03_Codex/simple_lc2/views.py",
+      "bytes": 4180,
+      "sha256": "c146ef21c2db51ed86c4f05e090d77f7fd2be8c5d90c7cd3f1aed54586fae92f"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/05_STEP/L_A_integrated_shell.step",
+      "bytes": 837427,
+      "sha256": "6566e9e4811f9cbc5dc6460f016dce95ea17409307a02b94be8934ff30d9df87"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/05_STEP/L_B_twin_louver.step",
+      "bytes": 93753,
+      "sha256": "707499e273940876c4a1d0f3ed49492bdf3f970113c309566c7ea94f4be47365"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/05_STEP/L_C_metal_cap_mount_NOT_PRINT.step",
+      "bytes": 96594,
+      "sha256": "554107558d9e5298efa96cecedf6d1c48b5fbf664cbcfcfe2ea6e81889a7f342"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/05_STEP/R_A_integrated_shell.step",
+      "bytes": 839123,
+      "sha256": "cae08a73706e9dedf5f4447e9eac782d8ee71c50c96e11b980dd49280fbbd792"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/05_STEP/R_B_twin_louver.step",
+      "bytes": 94454,
+      "sha256": "b9a89baa767d95548497fe1be68502bc95af4452e4e152d0111782cf9e00ff9c"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/05_STEP/R_C_metal_cap_mount_NOT_PRINT.step",
+      "bytes": 101823,
+      "sha256": "4450a2e888249adf168ddfe90786d295653976e4fec670c8028fdd9bc90a6925"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/06_STL/01_A_integrated_shell.stl",
+      "bytes": 246684,
+      "sha256": "c135e3540ea31f282e4571f7302a33bf05f92d1e55ac82a533e6bb4cb7c046a0"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "182db627f70f3b80d3c509a02a02de7684b961d658794a70717fb75ebec11000"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/06_STL/PRINT_SELECTION.json",
+      "bytes": 297,
+      "sha256": "e860b4a526e4aa5a27d63f573fb76370830f157fe4d9006977698d19bcb82dc6"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/07_Assembly/L_crossbar.step",
+      "bytes": 1350686,
+      "sha256": "6bb5b9beff485483998205a024411aa751f8ea0248a4082f46be8d0b5f4d041b"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/07_Assembly/L_upright.step",
+      "bytes": 1350804,
+      "sha256": "5956ce0bb8d443361365e734da0b483ef0336f4f46b2011a9bea2ce931216808"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/07_Assembly/R_crossbar.step",
+      "bytes": 1353459,
+      "sha256": "efbe5c760d9d8a74e4ba030386bed7b1e6ca44440b2bcbc2558e6179a3d94b10"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/07_Assembly/R_exploded.step",
+      "bytes": 1353584,
+      "sha256": "868df549ab03d3f3c8e97c98ee0dfba482f0c12d8ef66eb5d6ba6dfafc678c3b"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/07_Assembly/R_upright.step",
+      "bytes": 1353568,
+      "sha256": "2e0e561775969eff5d3524d15eb93732b035a583c85e6a10370f1b8fa7815afe"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/08_BOM/BOM_单侧.csv",
+      "bytes": 1842,
+      "sha256": "9de9637ea22ad97b67c3352e63b1493bf1509070c2708d4ca3c9e8cf41b9f17e"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/08_BOM/成本预算_待报价.csv",
+      "bytes": 341,
+      "sha256": "a6c61d2a97e0f3d1e390da2507672613f8cf21b470b3e27cb51f3863b878ed0d"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/09_Test_Reports/geometry.json",
+      "bytes": 16800,
+      "sha256": "fa54dac1f93b9cf0110606f2c228695f0e7456bf4f916ae8e8fa8e0bcfcb0554"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/09_Test_Reports/tests.txt",
+      "bytes": 359,
+      "sha256": "32f0c30c2d0df83154ebc74b7b71ae1457a4d760e43936aa69ed62d64390a18f"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/09_Test_Reports/评审结论.md",
+      "bytes": 1010,
+      "sha256": "9ab2c45c1c63ee1bc3875d120506c330adbc325aafa1192c8b79fe137ff1ed3c"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/10_Previews/center_section_dimensions.png",
+      "bytes": 139956,
+      "sha256": "595f0890e24594f3d3ab540da860074556f0556c840803604f35d2534cd1aa61"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/10_Previews/crossbar_assembly.png",
+      "bytes": 192193,
+      "sha256": "f2e727cc1fd4d00eeb9c25c8fe207d250c22c3e9589956073ec5d416b3a9ba60"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/10_Previews/exploded.png",
+      "bytes": 220408,
+      "sha256": "875df2c5a9c90d853c8087ab47dcd08b140e83f2954dd84d5727ad3680007239"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/10_Previews/fan_housing_section.png",
+      "bytes": 200121,
+      "sha256": "477859d7e7d95bfbc3127b86e311dcf4e4d4d9f2ebcda4102bd4178764c870b4"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/10_Previews/STRIKE_outlet_detail.png",
+      "bytes": 55086,
+      "sha256": "bb35ecb12e126bc8299d9eff8655fc7ef59f161182c877a59056cb729c975ba4"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/10_Previews/upright_assembly.png",
+      "bytes": 205448,
+      "sha256": "8566804059e03adb851fcca760b73d905fd3e318f0366f2632eecf96fe49aae1"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/11_Manufacturing/bend_assumptions.json",
+      "bytes": 372,
+      "sha256": "a088efb622fb9ee7d6fa74fa7f81299f3e81194474e7bb24b4c977d55fe9ed95"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/11_Manufacturing/C_metal_cap_mount_FLAT_UNQUALIFIED.dxf",
+      "bytes": 21549,
+      "sha256": "fd82358bb3e68f6e652d7b1736a2f4a58e9eba048d7c2736a08719d2df80ab2a"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/11_Manufacturing/制造与装配说明.md",
+      "bytes": 3531,
+      "sha256": "793501d2ef6b180bdec86b2bebfe6c1d117a56eb39cfb181cb3ccf0127e032d8"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/AGENTS.md",
+      "bytes": 1434,
+      "sha256": "a1c9f7cef8cdbc4c0a57644086d47fdd463a283dc2d17daa574a3edc97e2791d"
+    },
+    {
+      "path": "00_Archive/LC3_file_backup_20261029_235846/README.md",
+      "bytes": 2420,
+      "sha256": "273bb8ab6f90cc60e206b211420af1ad61134b756194d513809bc7a8678e36cb"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/AGENTS.md",
+      "bytes": 423,
+      "sha256": "dd08841360e94bfd1e8868e641d81b07cb3526785c029d8b11c56fd4f86a76e1"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/build.py",
+      "bytes": 9186,
+      "sha256": "02126e7a2355d96510d171b6f7ecdbcd4f5adf64118762c63a294bbe512c602b"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/model.py",
+      "bytes": 7434,
+      "sha256": "0966589aee9811c443527c39375076f74c21295495f5c0de72380ad9c292d308"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/parameters.json",
+      "bytes": 893,
+      "sha256": "814dbd20361793f4e660d3f6f329d24a7f7c08182cd9ded27831767b7ca63a39"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 606,
+      "sha256": "96f1d5882d84d3838c368cc1f043f630315007f55c9023ba21d3f697bae1ce71"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 3628,
+      "sha256": "08120ea103ff01312390a07158dd35b01672144d1a8c4d6af2acbba562807a2c"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/03_Codex/simple_lc2/views.py",
+      "bytes": 4232,
+      "sha256": "9231cb9e96bf9c0e79a48030c4b0d39e36f8453dcdd8b9f75b505df591a8286a"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/04_QA/LC4_放行门槛.csv",
+      "bytes": 862,
+      "sha256": "2d26bd9cbb5d6b38cfd3e2a5cc3c3fb115767f978ce69ffeda880610e78e0a95"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/05_STEP/L_A_integrated_shell.step",
+      "bytes": 886715,
+      "sha256": "986137d8f36758c95732836bf588d45107fc6e8629db2c09a7af5eb51ffbe8c7"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/05_STEP/L_B_twin_louver.step",
+      "bytes": 93753,
+      "sha256": "5314c56e4a6f51ccf94f5516ca10a16f35836ee8092f568893bac854a3a1c494"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/05_STEP/L_C_printed_base_mount.step",
+      "bytes": 149383,
+      "sha256": "61d2507d1039f945e321c521af27e70e127808406ead93e1fcdbeb0ecf74e072"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/05_STEP/R_A_integrated_shell.step",
+      "bytes": 891169,
+      "sha256": "3af08f4711d635bcb86624f8ff45a317dec6cd0e4097b85813ad23fe068d8094"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/05_STEP/R_B_twin_louver.step",
+      "bytes": 94454,
+      "sha256": "b158ebb007dc75f4ecbe2a556d637a32977ad1d1ebc68ca78e281bef1bf012d0"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/05_STEP/R_C_printed_base_mount.step",
+      "bytes": 156730,
+      "sha256": "d72b9ccc5322a5eef4959636ab8d2234e1567fcfd2e0f418cede024469c74d8f"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/06_STL/01_A_integrated_shell.stl",
+      "bytes": 399484,
+      "sha256": "e374e2f5a6bc5aaef22731d63d49342f797c41a56c98ad0e44b6efb4b6987a38"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "182db627f70f3b80d3c509a02a02de7684b961d658794a70717fb75ebec11000"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/06_STL/03_C_printed_base_mount.stl",
+      "bytes": 259084,
+      "sha256": "eb1c61ca453234dfb326154fe046af8a139c52ea22f7f7c90990929d2f232948"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/06_STL/PRINT_SELECTION.json",
+      "bytes": 287,
+      "sha256": "301b9d0433c607ac76820357a36d40ab9894ebeb22d555a06870ffce37a11975"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/07_Assembly/L_crossbar.step",
+      "bytes": 1346319,
+      "sha256": "f290194f39638630e800be2cdac7d0ca7a8f31f7e678e16ca865df614d1e45b5"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/07_Assembly/L_upright.step",
+      "bytes": 1346317,
+      "sha256": "cce98a84e64c0e131c375286d4866cb205fac8d32e844fbdb27c853ea284f371"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/07_Assembly/R_crossbar.step",
+      "bytes": 1358318,
+      "sha256": "e6ef18645b749fcb508d1047338177cbd42d5456d3414dabdfc80cb3275bc47c"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/07_Assembly/R_exploded.step",
+      "bytes": 1358322,
+      "sha256": "abcc91ae01cc683efb6b3ef4b5dbe57c1a26c23f3ebf29a2462922aa52b75076"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/07_Assembly/R_upright.step",
+      "bytes": 1358307,
+      "sha256": "1ac5460a91f14b7fe48c256c007d60cfaebf58c7d867a2f0620706a1f0d506e7"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/08_BOM/BOM_单侧.csv",
+      "bytes": 1201,
+      "sha256": "97b4b0ebb8983f582e1623e3031be2081d40556d5d4ff2a9eca4127dd633a402"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/08_BOM/成本预算_待报价.csv",
+      "bytes": 281,
+      "sha256": "784ce201ac2a5943135453430fbfddcfd3a23a2750a880be742c6c92d4d8e12a"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/09_Test_Reports/geometry.json",
+      "bytes": 16019,
+      "sha256": "07cf0c99b37b2910a6b04f4ef7ec9c47f7b6105efbf1603de52aac9bc10651f4"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/09_Test_Reports/tests.txt",
+      "bytes": 359,
+      "sha256": "ae77d2d0a0a2991144af889033341b484d33779085b0701717dadf40d5d98032"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/09_Test_Reports/评审结论.md",
+      "bytes": 849,
+      "sha256": "1fb9e984b831fe306e796d00618f22045ec448847bdd4a4f645ebd54b5b253eb"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/10_Previews/center_section_dimensions.png",
+      "bytes": 140046,
+      "sha256": "15d33921579fefd37539fc8c1e225212a0b28964644348f8deb9fa4642a0521c"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/10_Previews/crossbar_assembly.png",
+      "bytes": 202592,
+      "sha256": "d0a1cd6368145d1e8173f582dd2a2e61ed80cb2098efe5079f174aba49ce3f9a"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/10_Previews/exploded.png",
+      "bytes": 202746,
+      "sha256": "47ca8383df4f696e7f1a80b01596b4536a00f7e03d3004fffa3fd967d4dc7ec6"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/10_Previews/fan_housing_section.png",
+      "bytes": 205122,
+      "sha256": "9be4d0a08fad5ba24de88618d3b0fed6913df6d26c86ab8b48cfbd962f7d2deb"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/10_Previews/STRIKE_outlet_detail.png",
+      "bytes": 54764,
+      "sha256": "04960fd1d5005096b3f2496a8445a9050883ed95fafc21f3068a5b07b516e48b"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/10_Previews/upright_assembly.png",
+      "bytes": 209255,
+      "sha256": "ac62d2bca75626e2e10297e072db55924e72a143f00cfe91b220dd5e2876b649"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/11_Manufacturing/print_assumptions.json",
+      "bytes": 121,
+      "sha256": "1126ddd5e820696b74b7a9863b2fcac3ba30e965a0a9f298ad4f381b21be13f1"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/11_Manufacturing/制造与装配说明.md",
+      "bytes": 1712,
+      "sha256": "7de44f901147cde21ca50b196a77c656c75a58a61a2806ff54b55911042d77e2"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/AGENTS.md",
+      "bytes": 1053,
+      "sha256": "2bbefb0a8b0301c8404e3442623c0d54c22667ac9bf018ae0e5ed02c8b27ac4d"
+    },
+    {
+      "path": "00_Archive/LC4_file_backup_20261030_003325/README.md",
+      "bytes": 2857,
+      "sha256": "c65441299d742d90a23f57cac1352c9a98995ba3b97bf7f9523494155daae14d"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/AGENTS.md",
+      "bytes": 428,
+      "sha256": "dcf55106235067aa63eb35d1973a315e6b8aeeb1fcdbd3a3d3b084e5599a0d30"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/build.py",
+      "bytes": 10694,
+      "sha256": "946f4e27f377803497e10a00794dcd5bea0c136ff2167c225cb2e6754ff2d238"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/model.py",
+      "bytes": 8287,
+      "sha256": "ad8f7cea8efecae10e3d26768e02bcdc8c67e0273ce0d079c70213e6d2af077d"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/parameters.json",
+      "bytes": 965,
+      "sha256": "d1eac284ca224800344ebab594b64b188eb88f848997b17a18add44f961e43ee"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 606,
+      "sha256": "96f1d5882d84d3838c368cc1f043f630315007f55c9023ba21d3f697bae1ce71"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 4616,
+      "sha256": "8cd393d88aeb14c2d451907afe6a879c006b3b568df8d5aecbed12916981a20a"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/03_Codex/simple_lc2/views.py",
+      "bytes": 4232,
+      "sha256": "0337ecf222a53dc3d35490061d795ea3b281a3d3e70d8d3b92fb1909f6fd4176"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/04_QA/LC4_放行门槛.csv",
+      "bytes": 874,
+      "sha256": "8e9d710d4fc18627f600ba067138d793abb719a295179894a76fb83c849698dd"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/05_STEP/L_A_integrated_shell.step",
+      "bytes": 904602,
+      "sha256": "a9d16566b8ac32b4b2b6460d899d3b4db39e6851e2e75f925f3e5c9df7fb1574"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/05_STEP/L_B_twin_louver.step",
+      "bytes": 93757,
+      "sha256": "5967a6728955157f62d3a1920bdcf064ca4ef5c86bd60a9b04450bf632df870e"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/05_STEP/L_C_printed_base_mount.step",
+      "bytes": 171023,
+      "sha256": "f98f4c804537a4c43ee42224c18d27c3690065c712c72ddef5e2708cefd1126e"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/05_STEP/R_A_integrated_shell.step",
+      "bytes": 908476,
+      "sha256": "3b5a305a04323911968f7aaf33bfa31cc758c64e91a9282e72d5587351cd4bb8"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/05_STEP/R_B_twin_louver.step",
+      "bytes": 94443,
+      "sha256": "5a5145db08710de412e5a5ad00e7b3741b1d409bde45e6d985d5412275999fd2"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/05_STEP/R_C_printed_base_mount.step",
+      "bytes": 181523,
+      "sha256": "ff31a47015061058481cfefb6bb868cae969f195bc3f9065c40a7bc485dbd574"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/06_STL/01_A_integrated_shell.stl",
+      "bytes": 467084,
+      "sha256": "c70d51cbcf89c578d8f8e2a950461f69f5439a14296ecacc3498a50beae90362"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "1afec5edaa204fd479fb1126926baf977ac64f2051f9bc7da225e19ed88754c7"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/06_STL/03_C_printed_base_mount.stl",
+      "bytes": 285784,
+      "sha256": "faf7cb3213b7a37554aa2ed1e6cc3fac54030559deb6a4d85eff90828d7e2faf"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/06_STL/PRINT_SELECTION.json",
+      "bytes": 287,
+      "sha256": "301b9d0433c607ac76820357a36d40ab9894ebeb22d555a06870ffce37a11975"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/L_crossbar.step",
+      "bytes": 1542548,
+      "sha256": "e24dcba03af780ae81c89b4561cd1a8a22978f3a45bd9380ff46c76647d1443a"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/L_upright.step",
+      "bytes": 1542528,
+      "sha256": "19b2401dc365bad939daa2aa7ccffa41eac152118d1b4841512330e2c73b3b20"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_crossbar.step",
+      "bytes": 1557046,
+      "sha256": "220a23f8dcb36a0652180a9251b8c6db89ff4eef50d184e2f49f1a70311c9522"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_exploded.step",
+      "bytes": 1557032,
+      "sha256": "5bdb20eec11af8929fadc52ad28878a3b4d8bcc21203384f1a69e1a249d1ce14"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_0_crossbar.step",
+      "bytes": 1217152,
+      "sha256": "cfa90931af538b4b9c422b580ee078e0151915480cc6f0d4001ee70d517c8222"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_0_upright.step",
+      "bytes": 1217128,
+      "sha256": "a429373d33507070d8211649800b35a97d0321fd95a41d0d68e6b1b0c15b80b0"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_180_crossbar.step",
+      "bytes": 1220720,
+      "sha256": "6ee9a40ffbe9dd843882f581d4172d9e18e898a55ce27fb40bab206a8616ba46"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_180_upright.step",
+      "bytes": 1220702,
+      "sha256": "63c9e42cfa21d165b37bc898391256613509bad488caa33edc5645118806ab20"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_270_crossbar.step",
+      "bytes": 1220510,
+      "sha256": "2cfc17f3f42b1d27c023ce1cdc9024a1210ea4fd3ac6fb3012f7f72926d11bc1"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_270_upright.step",
+      "bytes": 1220488,
+      "sha256": "010f02add22155e2b69d48ce5952c10b377bdfa1adb222fb576ff1dea6de46b6"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_90_crossbar.step",
+      "bytes": 1220424,
+      "sha256": "9849853b7964c4c5aa0dab5ad40cf111924fad751c7a966f788a98390df968d0"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_fourway_90_upright.step",
+      "bytes": 1220404,
+      "sha256": "ea6d567dc4a5a1261263089155c8d4883f92a9eae05936eb7c5e252b516ee4cd"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/07_Assembly/R_upright.step",
+      "bytes": 1557017,
+      "sha256": "c88930908d309562d0c52789272e72656dec85cdf9a398884a6aff7b966062c3"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/08_BOM/BOM_单侧.csv",
+      "bytes": 1226,
+      "sha256": "0130f573d286818d9cd2b6293409ec6504e0e68b9c685ed194d0c1aad78cfcc1"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/08_BOM/成本预算_待报价.csv",
+      "bytes": 281,
+      "sha256": "784ce201ac2a5943135453430fbfddcfd3a23a2750a880be742c6c92d4d8e12a"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/09_Test_Reports/geometry.json",
+      "bytes": 21697,
+      "sha256": "552ecf780eba319b692a20c4cdf29ce2201a3ace3cd9b627c03329b4490db488"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/09_Test_Reports/tests.txt",
+      "bytes": 2529,
+      "sha256": "5918a48aaa6100b972e55f128cc3d56439944b9d52e18607324f2950a8658cb0"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/09_Test_Reports/评审结论.md",
+      "bytes": 695,
+      "sha256": "e3952b9f875d7e1d8bc52299bd18090585ae8734f859fde4d559796e6a2e1e08"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/10_Previews/center_section_dimensions.png",
+      "bytes": 139953,
+      "sha256": "4f811fcd495923c4ee546eb4c6008734942d6a8cb6106b806169f1e87aaff91a"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/10_Previews/crossbar_assembly.png",
+      "bytes": 214112,
+      "sha256": "8f266b22c7e68c07b1983279156c614f4b03414d1bfbd29b63906ec6b773f0ac"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/10_Previews/exploded.png",
+      "bytes": 227245,
+      "sha256": "ccb97001b2a6e13d9dc2875d9fbc51def72b4adc1519e438f7736cc3d676fe60"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/10_Previews/fan_housing_section.png",
+      "bytes": 212557,
+      "sha256": "175eae9ab3766b3a4cd52eefa1265a004ca60f47fcea9a9db069393ec6a22f8e"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/10_Previews/STRIKE_outlet_detail.png",
+      "bytes": 56776,
+      "sha256": "88dedfe06742a2f3045a8048fef71a3116e8f203a6a2a8faee282a6c17123e35"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/10_Previews/upright_assembly.png",
+      "bytes": 215210,
+      "sha256": "d5e2f43efbf2545cb9f577152ed8629cd10011c8f50a7f187860e1afd8090702"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/11_Manufacturing/print_assumptions.json",
+      "bytes": 121,
+      "sha256": "1126ddd5e820696b74b7a9863b2fcac3ba30e965a0a9f298ad4f381b21be13f1"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/11_Manufacturing/制造与装配说明.md",
+      "bytes": 2321,
+      "sha256": "5883a672898f199a4770d6f4a168f5d4c7a4bcae66f1dbf6d5bdc88f476c908f"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/AGENTS.md",
+      "bytes": 1403,
+      "sha256": "df80e855fc46056f52b667f03e09cb93bc2d26df5421fc07555296e75fa352f7"
+    },
+    {
+      "path": "00_Archive/LC5_file_backup_20261030_010514/README.md",
+      "bytes": 2985,
+      "sha256": "9d3db0ac0b3d312904a0c5f43ef8e4a4ef534550e1a0c8fe12039cc1bceb1d47"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/AGENTS.md",
+      "bytes": 353,
+      "sha256": "8680dce54b52093abc6cbe11c82da1a73b5b8b2154f055c97726ac5633818254"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/appearance_views.py",
+      "bytes": 5173,
+      "sha256": "530ceadf05605a4ab402a817c429cd2b1bed4760042737bc04214eb9ce97bdbb"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/build.py",
+      "bytes": 12333,
+      "sha256": "5acb482c07c85702344603cb8275c2cacc83feaaa324bd72e5ca68e303800c15"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/model.py",
+      "bytes": 9814,
+      "sha256": "840e1a242e873bbcdb301f694bfea22b320a82d183646ddbf96e28331c691137"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/parameters.json",
+      "bytes": 1069,
+      "sha256": "d794af403996eb2f409ed34d977dc9c3d939bba414bef56eb976e70e8aafc744"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 727,
+      "sha256": "05737771bd78ba856d99e85f4a546582a37ebb5f1fd46accf8a287ff7747fecf"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 5899,
+      "sha256": "a83640382d11b4ddf2540d9b1c6fee277677815e4b682f4b1b3b57c87112f994"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/03_Codex/simple_lc2/views.py",
+      "bytes": 4252,
+      "sha256": "69317338e21aedebad1403ad9e1f82889a2448781c170674a7d752d462183650"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/04_QA/LC6_新增检查.csv",
+      "bytes": 418,
+      "sha256": "160ab5d23c8865a95a641ff9bfb8a722668171a4b07333b23e351c5eaf4124a5"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/L_A_integrated_shell.step",
+      "bytes": 1101119,
+      "sha256": "3ff375fe47628e794796dc39ebebf4590cf3fb1b3f4cb687e06466a77d165064"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/L_B_twin_louver.step",
+      "bytes": 93757,
+      "sha256": "dce03b9a60893ee0e1da40e495f5c8c789b5d1774e731abc8bc928cf3888769a"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/L_C_printed_base_mount.step",
+      "bytes": 204301,
+      "sha256": "142e9ec3e1c076dbb3af2b363a8f6d4eb40f8c31083dc65e3fe2bb37f00e4777"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/L_D_Wrench_Racing_colour_shell.step",
+      "bytes": 1492574,
+      "sha256": "e492c8c8ffbc512ccfef742f21690f99b03d2c930e098d9776d12ad2d4a91cf3"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/R_A_integrated_shell.step",
+      "bytes": 1107695,
+      "sha256": "5627c93399217c002ccd96343275f14e0cea94f387b40bb0f8fa9f8920d6891e"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/R_B_twin_louver.step",
+      "bytes": 94443,
+      "sha256": "152c853d01e43a769133b84088e2717adea17c6e80e27b1eea491613aadacdc9"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/R_C_printed_base_mount.step",
+      "bytes": 214478,
+      "sha256": "4e154bce9e5053e3d08ed4b4a4360cd933b55d69d2d48de6abc4031972dd202a"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/05_STEP/R_D_Wrench_Racing_colour_shell.step",
+      "bytes": 1492574,
+      "sha256": "10380306d983a4ce503f9b61ad1a8773c82f3a50b98c4b307836db1ba02624a7"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/06_STL/01_A_integrated_shell.stl",
+      "bytes": 539884,
+      "sha256": "3e39169920b26f5fa5680d6e9dc00bde2a63a3d3b0ec03bddfd114b822d5c91f"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "1afec5edaa204fd479fb1126926baf977ac64f2051f9bc7da225e19ed88754c7"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/06_STL/03_C_printed_base_mount.stl",
+      "bytes": 286584,
+      "sha256": "df6c5406ce8cad7ba7f530fe5c89909a8e8622bee30bc582f8c582d5a3bf7b3a"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/06_STL/04_D_Wrench_Racing_colour_shell.stl",
+      "bytes": 726684,
+      "sha256": "2189e5894881e50713aedd83499e2c1c477ea58c2a276249aae72f4eca5d58ee"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/06_STL/PRINT_SELECTION.json",
+      "bytes": 459,
+      "sha256": "4e3eb4505a1ed6287fb25426e9b2c6aee608b8c2c6ee683f76d3a9ea2512de93"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/L_crossbar.step",
+      "bytes": 3291440,
+      "sha256": "b9f22827bbf9098b7456d356a8036e51453cdf40c7d948a8ae87c9bd11c9bb12"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/L_upright.step",
+      "bytes": 3291419,
+      "sha256": "869dd2722991649e71ab4acf6db5ba12890c5e781a742e355323b1fcc832f696"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_crossbar.step",
+      "bytes": 3308357,
+      "sha256": "f52b1281e00faadfea3eb9d8f865364efc9f742438fcd8a83b5f4ddb0216b66e"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_exploded.step",
+      "bytes": 3308344,
+      "sha256": "825acc9577518a72e8b53fcca760c0aa49316953683c1729364b04517b4c769c"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_0_crossbar.step",
+      "bytes": 2970005,
+      "sha256": "d19453e2f94e3492251a73898479074284085a292f5d9e8eee205df20fbae681"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_0_upright.step",
+      "bytes": 2969985,
+      "sha256": "7455452eb36fdecac0158a176088144642528699cdace10d9673033787495d0f"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_180_crossbar.step",
+      "bytes": 2973909,
+      "sha256": "a3371c3ab8bbb68cc918efa1731bf255ee027aeedd67c1e7a8f1622c1faf3251"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_180_upright.step",
+      "bytes": 2973891,
+      "sha256": "3d6ed1e1776bf970ddb4fc37fc2d2a195fc89a9d20bfc95be3df09a326884651"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_270_crossbar.step",
+      "bytes": 2973678,
+      "sha256": "319ddd029c94f8f2a174615bf7bfedecd7e488f0e7a0ca684d1dc9e81a3383a5"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_270_upright.step",
+      "bytes": 2973656,
+      "sha256": "328b9996374a03d87628783e7e44730e5cf5e6b9a596713b626fc2b68f5f70e7"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_90_crossbar.step",
+      "bytes": 2973731,
+      "sha256": "bd4aec7f85162dea62418c01a13ebafa79dcba88e505057596c628735a2d2f34"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_fourway_90_upright.step",
+      "bytes": 2973711,
+      "sha256": "a7b0654b97f0b6ff3d2be26bc393b112d5fb0b445ec85a820945c7daad378b16"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/07_Assembly/R_upright.step",
+      "bytes": 3308328,
+      "sha256": "70c72ac86d182c82768cbb7b2e1e1db7b448bf576f8c7592d1e20801c34e408d"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/08_BOM/BOM_单侧.csv",
+      "bytes": 1480,
+      "sha256": "a659dee145cf435349bbf3ff41103d36296ea12e45b1dfb55901361f0e548493"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/08_BOM/成本预算_待报价.csv",
+      "bytes": 370,
+      "sha256": "8d7e395d1bb1c6d21d1b71266ab36b2c6ee77190dc9608f280acc7d56030261f"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/09_Test_Reports/geometry.json",
+      "bytes": 29379,
+      "sha256": "05888c7afb9fb47da3e9c83df5394b1e31480e0e9c77f2603e65618f1461d71f"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/09_Test_Reports/tests.txt",
+      "bytes": 359,
+      "sha256": "31c3018f0654e42728a178243c3e8d40fb2de30d91514648d44ee2893315d68b"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/09_Test_Reports/评审结论.md",
+      "bytes": 951,
+      "sha256": "002206b74c8d472ced2cd991d451f53c9bde54e4ed6591e3c37411675f92c032"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/center_section_dimensions.png",
+      "bytes": 140134,
+      "sha256": "bda51312b726cf6f3c3d6d9f9bbd1d1b0e2614b05149442447d8af78bc9f89d4"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/colour_shell_only.png",
+      "bytes": 76950,
+      "sha256": "3fceec05b8d90d35769c4092a324cb11edb48354cc7d575272e14fc332a5ded5"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/crossbar_assembly.png",
+      "bytes": 212925,
+      "sha256": "47547c2547bd37830a58bfcbb2210cbed31601016d7f0361dc550c53c75aaa0b"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/exploded.png",
+      "bytes": 201429,
+      "sha256": "2bb585714a8511c495ffc67f61ac3eef18678967ca83221d1a7926a7f94b328f"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/fan_housing_section.png",
+      "bytes": 208259,
+      "sha256": "90ab85820751476a7ee7885523846f185df9e70406db85de9ed08eab97d36afb"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/STRIKE_outlet_detail.png",
+      "bytes": 57309,
+      "sha256": "9f2f31ebe419695d45a9a931c4ccff74f6fc5a51e9b1736973d74bb8ab0379b9"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/upright_assembly.png",
+      "bytes": 215232,
+      "sha256": "34387654b7df52df9116e56037c2387886b5d2cfecf741e902e60c5656cc6f7a"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/10_Previews/Wrench_Racing_colour_shell.png",
+      "bytes": 113114,
+      "sha256": "8ae801355bb15d582635c82970a37f91f5c6fdf765983b50b62234dc00f5623b"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/11_Manufacturing/LC5_corner_reference.step",
+      "bytes": 57720,
+      "sha256": "cf33ce0f7f6d15fad222477ad21aae7a0ccc5c0737eeb753bf0deb395a8bac04"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/11_Manufacturing/LC6_外罩与四角说明.md",
+      "bytes": 1404,
+      "sha256": "c91ac5ba14962947722f50fd06785019c6534bae6800b47d9b4ae523b1d7c1b4"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/11_Manufacturing/print_assumptions.json",
+      "bytes": 121,
+      "sha256": "1126ddd5e820696b74b7a9863b2fcac3ba30e965a0a9f298ad4f381b21be13f1"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/AGENTS.md",
+      "bytes": 1359,
+      "sha256": "13ff507d97dc18f6ceed396569fe8cda2ae18feb5352202a6ee96df5b7025cc9"
+    },
+    {
+      "path": "00_Archive/LC6_file_backup_20261030_012255/README.md",
+      "bytes": 3565,
+      "sha256": "2e80feef31ab49792b6e5645861555535be9e519ae47b1cb2b23649d78ec2996"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/AGENTS.md",
+      "bytes": 234,
+      "sha256": "509c61bdcea89d6f4f7f0c3e3408692915a1871f5de8f9dbeba612c2e7741d61"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/appearance_views.py",
+      "bytes": 4982,
+      "sha256": "5de4cc3bf0c9314d13553b0b69ba3348f8d6c04b67632bcefea17aacf0d43978"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/build.py",
+      "bytes": 12501,
+      "sha256": "6773bda3dc380c727b0e43a13855f85378e6122f031aa2d974cdd46382f28adf"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/model.py",
+      "bytes": 9714,
+      "sha256": "3ad3fed5d3dce2604092205ba87fbaec9a944d3506ebded9bc723c52c6eca603"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/parameters.json",
+      "bytes": 1067,
+      "sha256": "44d8dea3cb827408e996ec46e7c5ff0c318e1373686fb16f7e6510b046eab049"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 727,
+      "sha256": "05737771bd78ba856d99e85f4a546582a37ebb5f1fd46accf8a287ff7747fecf"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 6039,
+      "sha256": "5913a67740a8bb17175f2abf8175ebe7b95fe8fde128f99d42fcfda3e5b6f232"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/03_Codex/simple_lc2/views.py",
+      "bytes": 4252,
+      "sha256": "6128de9ccb9015738d1e84bb4f7a29f9fa086e2bd8a9bbce68c114ac55b64e62"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/04_QA/LC7_放行门槛.csv",
+      "bytes": 461,
+      "sha256": "13f19f8c21ee992d8254735e025762d9c8581ccb80221cab3340aef978146031"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/L_A_integrated_shell.step",
+      "bytes": 1212111,
+      "sha256": "e2feac88fe53d6187456c0e3cfa8513b6d3a0e0d46f2877e3f223e6ab1c2076e"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/L_B_twin_louver.step",
+      "bytes": 93757,
+      "sha256": "cf7d4bd1cd61575fd5a48a2db37cb201e5bbd24a45d9c76254675f8f02556edf"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/L_C_printed_base_mount.step",
+      "bytes": 204301,
+      "sha256": "5b8225362d8312a6fc6b46d7c2428a3e8f96f2d94ec9417dc9ef99d341ef62c3"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/L_D_Wrench_Racing_front_bezel.step",
+      "bytes": 1448227,
+      "sha256": "ce46e21cbff3b514994e994b7eeda409866fa6b849c1651eee3739ade0dd4e0b"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/R_A_integrated_shell.step",
+      "bytes": 1220444,
+      "sha256": "b7af57d1f8c9849dc5fb0a7bf9945a0f555bfdb062ed56fee05e40246abe9232"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/R_B_twin_louver.step",
+      "bytes": 94443,
+      "sha256": "5e79579c9dbacd6af0879edefe0071392763abfe507acb89ee87ce0620643836"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/R_C_printed_base_mount.step",
+      "bytes": 214478,
+      "sha256": "b32cf360a27c0c1d2f183918d43ced445b75b15b3e615ac3d4770bb54c5d8c23"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/05_STEP/R_D_Wrench_Racing_front_bezel.step",
+      "bytes": 1448227,
+      "sha256": "a8814a8247e95d59df69f083d01d5fc93155332e5065fe1609ea0b21ffe338a8"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/06_STL/01_A_integrated_shell.stl",
+      "bytes": 544884,
+      "sha256": "d0d9b344a16c9f49f7b48b2bd7a2373e1300b6270e9e17447796008df50bca6e"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "1afec5edaa204fd479fb1126926baf977ac64f2051f9bc7da225e19ed88754c7"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/06_STL/03_C_printed_base_mount.stl",
+      "bytes": 286584,
+      "sha256": "df6c5406ce8cad7ba7f530fe5c89909a8e8622bee30bc582f8c582d5a3bf7b3a"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/06_STL/04_D_Wrench_Racing_front_bezel.stl",
+      "bytes": 804484,
+      "sha256": "cac699f1832f43143f3e70cc3eb2c601fa3a83c2f10e5f15c6e1cb7ff8966de7"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/06_STL/PRINT_SELECTION.json",
+      "bytes": 458,
+      "sha256": "b87eec9a20a4b91a8662d66c5870d6509af3c9bb53969cf23c005cd3c23c7886"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/L_crossbar.step",
+      "bytes": 3358507,
+      "sha256": "e82323880e928298e39ad824224c78defc9b3ee0fe500828f2dc61b1f814dd81"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/L_upright.step",
+      "bytes": 3358486,
+      "sha256": "d86b9030bff9829d894d6ac902af91a8e2b65594a0958a602eeb877b862312da"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_crossbar.step",
+      "bytes": 3377179,
+      "sha256": "b5f7b91f7dad3e7eabcd8f842bce92e85d2ba2fd9a0fbb05d913ecb5348c4a7b"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_exploded.step",
+      "bytes": 3377166,
+      "sha256": "7dc9b5c5c3bfea7e5c98983e24cf5abe20cfc9bf65ab24052ed329f17e7ba77f"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_0_crossbar.step",
+      "bytes": 3038826,
+      "sha256": "11a4c8b17c9f4fd61788374a44a67247e6cda0a08b649fda4946c9e3b9647a45"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_0_upright.step",
+      "bytes": 3038806,
+      "sha256": "38d6548c12543a81a3512ebae9e34ca271a727a8376c1a66f1a098d53561ad9b"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_180_crossbar.step",
+      "bytes": 3042730,
+      "sha256": "395617740ee5b2d359a3c61de9bf5b1d2b3caed78995d9b4a8a399252bcddd6a"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_180_upright.step",
+      "bytes": 3042712,
+      "sha256": "114714b044a1a8ddc1a1d4d27b0b9f824b200691d32533e70a0d3ef016fe7e0c"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_270_crossbar.step",
+      "bytes": 3042499,
+      "sha256": "a29f567ad3743cd78510e5f3fc072383344089e41d0bce617c17fbc4a4eb616e"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_270_upright.step",
+      "bytes": 3042477,
+      "sha256": "dac0dd223c4f5c419518bcd6e7fb69e9a3fac69547da885fe4e5bd19b866c49d"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_90_crossbar.step",
+      "bytes": 3042552,
+      "sha256": "0fc4631aaaba86a4178f1bfe5aac50fb9088d4b3b1f52fa549d00d8bd877c9ac"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_fourway_90_upright.step",
+      "bytes": 3042532,
+      "sha256": "e8a119e5e45a12b79052b34aeecc6274d38d718bc017d43cbb9988756d25f4f2"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/07_Assembly/R_upright.step",
+      "bytes": 3377150,
+      "sha256": "888e00c9eabe56946d35ea8bee3a9551eea8c157582b65ff675fb4b1227a4ee9"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/08_BOM/BOM_单侧.csv",
+      "bytes": 1502,
+      "sha256": "1a6aca96313b0946dda190284090ac8e7bba080ec4156df91acf07f69cd0ddee"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/08_BOM/成本预算_待报价.csv",
+      "bytes": 370,
+      "sha256": "8d7e395d1bb1c6d21d1b71266ab36b2c6ee77190dc9608f280acc7d56030261f"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/09_Test_Reports/geometry.json",
+      "bytes": 29391,
+      "sha256": "6d364ebfbcefe76952a68e5770f70c491a79ef85913dc9360764995d6132441e"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/09_Test_Reports/tests.txt",
+      "bytes": 3208,
+      "sha256": "99880b79bfe433f2d795426b93bb860e03fd68bf659911bcde4eb0c7c35e34fe"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/09_Test_Reports/评审结论.md",
+      "bytes": 644,
+      "sha256": "0cd99d7e15e3a3b9c5cfec4b31eb8093cf862895220064f420ca61809498eecc"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/center_section_dimensions.png",
+      "bytes": 139907,
+      "sha256": "26f64180c413b2eb0bf04ec92f9ac8253622ccc70ff4256692dbb1facb4f0093"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/crossbar_assembly.png",
+      "bytes": 229812,
+      "sha256": "caa588c0807cb1f8b0099898a8ed5a1385f51b1d1ecc0c4dad612afdfc16d04c"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/exploded.png",
+      "bytes": 233560,
+      "sha256": "3b1b1b16e0af53238e36a1985b3204b69c6973203f461064a196e561874bdb20"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/fan_housing_section.png",
+      "bytes": 217570,
+      "sha256": "c896dbe979ec3d72e965409f9b7b8efc13d652e2beb3030377ec95e877f5bff9"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/front_bezel_only.png",
+      "bytes": 37777,
+      "sha256": "9b644ff9024e3d9e6431e3f3e9e9bab4c82ad9c91630ec9709843819a3fce473"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/STRIKE_outlet_detail.png",
+      "bytes": 58909,
+      "sha256": "b6cc6d397208b306d93d6aaa010a5fa94f51391ea4cf104fbe80318284f28276"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/upright_assembly.png",
+      "bytes": 223458,
+      "sha256": "d66f344ab959702cec3e1e1bcf86dd19817902a19b05e92143e5529f65b7f678"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/10_Previews/Wrench_Racing_front_bezel.png",
+      "bytes": 72383,
+      "sha256": "02285fac022cbcccb1fd0d58dcea49281032a679b76c5885d4091de3dc173b14"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/11_Manufacturing/LC5_corner_reference.step",
+      "bytes": 57720,
+      "sha256": "cf33ce0f7f6d15fad222477ad21aae7a0ccc5c0737eeb753bf0deb395a8bac04"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/11_Manufacturing/LC7_前饰盖与装配.md",
+      "bytes": 1198,
+      "sha256": "0a9117ed64e69aa79a56425fd2e0c68d37d2908b6be008bb80a3fc5e288eb6b5"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/11_Manufacturing/print_assumptions.json",
+      "bytes": 121,
+      "sha256": "1126ddd5e820696b74b7a9863b2fcac3ba30e965a0a9f298ad4f381b21be13f1"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/AGENTS.md",
+      "bytes": 1044,
+      "sha256": "fc1adacc7c48f575fe7b8b96e93f1404adbc1e8409e8c97e66b163dcf6b7d1a7"
+    },
+    {
+      "path": "00_Archive/LC7_file_backup_20261030_020216/README.md",
+      "bytes": 2978,
+      "sha256": "cb55ec498f3609ce883f41d43e44b9229ec0ae441c5b5224ecc66c0175fee765"
+    },
+    {
+      "path": "01_Schematics/R413_模块化结构提案.png",
+      "bytes": 231217,
+      "sha256": "01ecc969b8bf8222b5f7481cf2c3557d249284f8291f1c9b103caab0c581d1d9"
+    },
+    {
+      "path": "01_Schematics/R413_模块化结构提案.svg",
+      "bytes": 11335,
+      "sha256": "2023caf0da06313f30ab2b61bbed85242202b49d054dd3559fce9b37576529ac"
+    },
+    {
+      "path": "02_Design_Brief/R413_产品架构与接口冻结草案.md",
+      "bytes": 6582,
+      "sha256": "df58a67ca689dd343c85a8c3cf80e96ccc57ce94ed6d694e5581b88a440c2502"
+    },
+    {
+      "path": "02_Design_Brief/R413_已核对基线.json",
+      "bytes": 993,
+      "sha256": "80e964d86a80dc1942d44fab66e544b984190baa141d9f8d20a11de8e3a6966d"
+    },
+    {
+      "path": "03_Codex/AGENTS.md",
+      "bytes": 254,
+      "sha256": "494e48f7aeb1bf15a2236ffda10fa72a7ef45461d40cfb7e94be5c258d9076b4"
+    },
+    {
+      "path": "03_Codex/simple_lc2/appearance_views.py",
+      "bytes": 4982,
+      "sha256": "61362921096d208ceb68a657523e9decff7749feb1398cf10161460e2c32e998"
+    },
+    {
+      "path": "03_Codex/simple_lc2/build.py",
+      "bytes": 13949,
+      "sha256": "c656ed6fa9237f08b38f537bf33a84ba7e25d828d91285c1475ba3e21500f977"
+    },
+    {
+      "path": "03_Codex/simple_lc2/model.py",
+      "bytes": 9662,
+      "sha256": "57765cca990c002af7fc9c9a6203163d8fccdee8f9c2b3fca04ad792e9a4e44d"
+    },
+    {
+      "path": "03_Codex/simple_lc2/parameters.json",
+      "bytes": 1241,
+      "sha256": "8f848a150868c25c68946651d1baa5ad9b80d8a9e87cac7dbf93d4ed332da9a7"
+    },
+    {
+      "path": "03_Codex/simple_lc2/prepare_print_shop.py",
+      "bytes": 2743,
+      "sha256": "1c60e353939fa17d8b22abfea9289101571b182210f4940cccb7486d55dfb961"
+    },
+    {
+      "path": "03_Codex/simple_lc2/print_preflight.py",
+      "bytes": 4758,
+      "sha256": "85d57eae590def9b4e9e466da77a0170ef512b022283481373e1aa577c9f055d"
+    },
+    {
+      "path": "03_Codex/simple_lc2/profile_view.py",
+      "bytes": 1463,
+      "sha256": "cd0ee3541ad55418bca65abbedd722ef49d1b5839c86f03756337d91a1baea3c"
+    },
+    {
+      "path": "03_Codex/simple_lc2/requirements.txt",
+      "bytes": 35,
+      "sha256": "0cc679c4d53202b455097b87c697b92d37048f264c968e2d8cd53817869ede43"
+    },
+    {
+      "path": "03_Codex/simple_lc2/run_local.ps1",
+      "bytes": 849,
+      "sha256": "81dc6afc5f6449c04d73ffd51a43bcd938688d83f8bf935456f5105fc32b3ccd"
+    },
+    {
+      "path": "03_Codex/simple_lc2/setup_environment.ps1",
+      "bytes": 588,
+      "sha256": "cff76adbaff67dacbf10c7a5d5a81d487ffe98c6b18479e14a7a01a3f8c782a6"
+    },
+    {
+      "path": "03_Codex/simple_lc2/test_engineering.py",
+      "bytes": 6662,
+      "sha256": "5327e82006e513566980e257d5ddd89eab20efcd394be1bd539c0502ae78e048"
+    },
+    {
+      "path": "03_Codex/simple_lc2/verify_handoff.py",
+      "bytes": 1578,
+      "sha256": "4efb4bd4c2ebf82daf4ff63a4cb6aa2b6d31d406f732e2a2de5beb67d03a0dff"
+    },
+    {
+      "path": "03_Codex/simple_lc2/views.py",
+      "bytes": 4252,
+      "sha256": "544b7ab49d3c11fd3e3c58b662737f01f36a6fb2fc647b710f704b625dee12c6"
+    },
+    {
+      "path": "04_QA/LC1_打样门槛.csv",
+      "bytes": 1065,
+      "sha256": "1250ded8b1795c6bf4df8bf4bd2216a5706eb0492e551fe20517ac59f8eca482"
+    },
+    {
+      "path": "04_QA/LC2_放行门槛.csv",
+      "bytes": 1149,
+      "sha256": "2be888b9cb6312514554a042906cc43d880c0af1d968be4221784c57c69ae108"
+    },
+    {
+      "path": "04_QA/LC4_放行门槛.csv",
+      "bytes": 878,
+      "sha256": "ac75ae956b246a3506d8160c76bd83222d5720ef020c4d193b188f8595febbdc"
+    },
+    {
+      "path": "04_QA/LC8_放行门槛.csv",
+      "bytes": 512,
+      "sha256": "d39e99b1d9e91021f3f2a03f27d2d58238c1536d0b1b3f3f46e5b1249d83b6cd"
+    },
+    {
+      "path": "04_QA/R413_开发验收清单.csv",
+      "bytes": 980,
+      "sha256": "cf479f35884b8315de218de7db6a8f7a1cf6a8d829b8403bc6caca93c720370e"
+    },
+    {
+      "path": "05_STEP/L_A_integrated_shell.step",
+      "bytes": 1090529,
+      "sha256": "78e4e972bebb71e0ff88d0d8bb6c36b262c32082bba4bfbd21d519c1b474d4d9"
+    },
+    {
+      "path": "05_STEP/L_B_twin_louver.step",
+      "bytes": 93757,
+      "sha256": "25b3c035918a5a4a49cf50a7b048568317ccc96b8098e01fcee62eb7327be7cc"
+    },
+    {
+      "path": "05_STEP/L_C_printed_base_mount.step",
+      "bytes": 196408,
+      "sha256": "a452d6b3a5ec5ff861bd38099edfa9d992664b2356e2fb69f4c4c7993e6ecd1b"
+    },
+    {
+      "path": "05_STEP/L_D_Wrench_Racing_front_bezel.step",
+      "bytes": 1479548,
+      "sha256": "8f8fcadb17f91281988fe75592d63dbcba1c8ef0a35dcd90d1f77165eb932847"
+    },
+    {
+      "path": "05_STEP/R_A_integrated_shell.step",
+      "bytes": 1096315,
+      "sha256": "84354089f6aaba74ba476b2c0a52299b504902462bc7662fe7539b388425d079"
+    },
+    {
+      "path": "05_STEP/R_B_twin_louver.step",
+      "bytes": 94443,
+      "sha256": "1b78d6fde7fbb728bf981bc4340aacc56fcf22fe2896bbe52688b913511daa1d"
+    },
+    {
+      "path": "05_STEP/R_C_printed_base_mount.step",
+      "bytes": 206029,
+      "sha256": "151f293f389b21b823ff0cd72421caab515ca04875860ff19d3b00e61cb9ade2"
+    },
+    {
+      "path": "05_STEP/R_D_Wrench_Racing_front_bezel.step",
+      "bytes": 1479548,
+      "sha256": "96ed513ec1e7fe995219711d430e220f614454fde13b71e6a4335c072f64ea66"
+    },
+    {
+      "path": "06_STL/01_A_integrated_shell.stl",
+      "bytes": 538484,
+      "sha256": "958e6f57970dbec31a0061519f6fd4c1d94cbf16aac5a6ff308f3391d8cc929e"
+    },
+    {
+      "path": "06_STL/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "1afec5edaa204fd479fb1126926baf977ac64f2051f9bc7da225e19ed88754c7"
+    },
+    {
+      "path": "06_STL/03_C_printed_base_mount.stl",
+      "bytes": 286284,
+      "sha256": "2101e80e664ee9b9e62e2b6e6d31c36a62157a849e37548255d1318acb2a489f"
+    },
+    {
+      "path": "06_STL/04_D_Wrench_Racing_front_bezel.stl",
+      "bytes": 806284,
+      "sha256": "c3e528c4b39a664c220422eb644dfa096f6389d0059a4812db5d0066761de5eb"
+    },
+    {
+      "path": "06_STL/PRINT_SELECTION.json",
+      "bytes": 458,
+      "sha256": "b87eec9a20a4b91a8662d66c5870d6509af3c9bb53969cf23c005cd3c23c7886"
+    },
+    {
+      "path": "07_Assembly/L_crossbar.step",
+      "bytes": 3260085,
+      "sha256": "043a358dfa750ca1382a52c31759bfc4bd4be4dc0d32e0dcb47b53710124f70f"
+    },
+    {
+      "path": "07_Assembly/L_upright.step",
+      "bytes": 3260064,
+      "sha256": "ea26b0f96155f1ec53158c5e37fbe88dbe9ed77ee030885960278a01064ac0a1"
+    },
+    {
+      "path": "07_Assembly/R_crossbar.step",
+      "bytes": 3275660,
+      "sha256": "2de3abff02deec68eef4e6e6129433063e00a9cc92b5ad66c469ff68d1039032"
+    },
+    {
+      "path": "07_Assembly/R_exploded.step",
+      "bytes": 3275647,
+      "sha256": "2e7045c94312ab3be8875f508a9396c55b0ff1cd496b417f1ac156dfd512f9fa"
+    },
+    {
+      "path": "07_Assembly/R_fourway_0_crossbar.step",
+      "bytes": 2937855,
+      "sha256": "ad13b3264d0ecbbf58989eaa2672218f5b9a502a77c0d396a472e15d290daee2"
+    },
+    {
+      "path": "07_Assembly/R_fourway_0_upright.step",
+      "bytes": 2937835,
+      "sha256": "280e2c46652443d38c97bfffa4be22f2dc46b79d49d067eda0ff9a14dc5ff7ee"
+    },
+    {
+      "path": "07_Assembly/R_fourway_180_crossbar.step",
+      "bytes": 2941591,
+      "sha256": "48ca8bb2c00d8649fd8579e85d211d521b6ab0d00104c5820ae3567b23de0a50"
+    },
+    {
+      "path": "07_Assembly/R_fourway_180_upright.step",
+      "bytes": 2941573,
+      "sha256": "877b2c0c205471e6d7420e6197e121eac82d0c7381ff56618e3a0c6f6a4e6bf3"
+    },
+    {
+      "path": "07_Assembly/R_fourway_270_crossbar.step",
+      "bytes": 2941371,
+      "sha256": "d1c6556dc41d77f1ceea87a963b3a53e55af5910629be52d43de470ddfd73239"
+    },
+    {
+      "path": "07_Assembly/R_fourway_270_upright.step",
+      "bytes": 2941349,
+      "sha256": "8467ff903b884bfe27b7af16713f6f682062ff4ed076915d5d34a69f020f09fe"
+    },
+    {
+      "path": "07_Assembly/R_fourway_90_crossbar.step",
+      "bytes": 2941426,
+      "sha256": "6dacea29c38c3a63e0cf88b30f912ab7221a01da787ba0443362456af7de0693"
+    },
+    {
+      "path": "07_Assembly/R_fourway_90_upright.step",
+      "bytes": 2941406,
+      "sha256": "333ade11e830536fe318265c6a31067b21c3a6b7052ee7ad39573643b0820291"
+    },
+    {
+      "path": "07_Assembly/R_upright.step",
+      "bytes": 3275631,
+      "sha256": "aa077b6639895f3def956d432bf076867f6cd307151f93d18075bf860c20b5a8"
+    },
+    {
+      "path": "08_BOM/BOM_单侧.csv",
+      "bytes": 1597,
+      "sha256": "72190a2c7c55498335e490e75fdcf5e79400741e23f620bce7a191f834a65644"
+    },
+    {
+      "path": "08_BOM/成本预算_待报价.csv",
+      "bytes": 370,
+      "sha256": "8d7e395d1bb1c6d21d1b71266ab36b2c6ee77190dc9608f280acc7d56030261f"
+    },
+    {
+      "path": "09_Test_Reports/geometry.json",
+      "bytes": 32486,
+      "sha256": "2ab6813d32e31975fefd5e69e2c2212a4cf09375bcf92e788939c605cbb51b2f"
+    },
+    {
+      "path": "09_Test_Reports/tests.txt",
+      "bytes": 359,
+      "sha256": "c3599e95d86634ae281c410eed1b3055cd0a58ddf137efc663973257ad328eb5"
+    },
+    {
+      "path": "09_Test_Reports/评审结论.md",
+      "bytes": 1074,
+      "sha256": "43b34dfcf36ac8767e8fb7a70d7780ef79135dcc54129eb4d1c7b154f5f91694"
+    },
+    {
+      "path": "10_Previews/center_section_dimensions.png",
+      "bytes": 139986,
+      "sha256": "e1470ef7468f5c9f437b0ab290204e42c5ebf2e64dc700c44287411078f1ee24"
+    },
+    {
+      "path": "10_Previews/corner_reinforcement_comparison.png",
+      "bytes": 82598,
+      "sha256": "8dea3bf2949f71e335d1ce973fbd6c5cc38fb6319bec6c820cc7f9d0a1a9391f"
+    },
+    {
+      "path": "10_Previews/crossbar_assembly.png",
+      "bytes": 233960,
+      "sha256": "03251c194a6b9d6b4807ba84464fdf2ec462676ccc281c8f6165f82d85af28af"
+    },
+    {
+      "path": "10_Previews/exploded.png",
+      "bytes": 236543,
+      "sha256": "4dab1068eac91ccbca07cee0b0cd8649724537016cb813265d98eed4cab0eba4"
+    },
+    {
+      "path": "10_Previews/fan_housing_section.png",
+      "bytes": 220142,
+      "sha256": "a54750f5db89def9d84514ae3c054422da20b2889ce9ee6a5a35d1dd372bb293"
+    },
+    {
+      "path": "10_Previews/front_bezel_only.png",
+      "bytes": 38169,
+      "sha256": "e2345a0ab39472d9864841cbee500d2918a7022f670174e0383ea4a2a28762c5"
+    },
+    {
+      "path": "10_Previews/profile_mount_M4_M5_M6.png",
+      "bytes": 98574,
+      "sha256": "c0e16ef6c79f79f62966336778b1b71c3499ac39076c7cae7944ae94c593360f"
+    },
+    {
+      "path": "10_Previews/STRIKE_outlet_detail.png",
+      "bytes": 58463,
+      "sha256": "9d7af1d5f706770e7f5bd0f7a1eb230f5c81d32b5a6b1d6fbf884417df839966"
+    },
+    {
+      "path": "10_Previews/upright_assembly.png",
+      "bytes": 226530,
+      "sha256": "81a7a5b01514c3fcfe6fdf8deaffc593f5175cf48130f1d13240cf92df3af5d3"
+    },
+    {
+      "path": "10_Previews/Wrench_Racing_front_bezel.png",
+      "bytes": 73088,
+      "sha256": "4307aefe144f38d97af6d2048f7b48b2b3466157839c00e86691a91882dbd0e1"
+    },
+    {
+      "path": "11_Manufacturing/LC5_corner_reference.step",
+      "bytes": 57720,
+      "sha256": "cf33ce0f7f6d15fad222477ad21aae7a0ccc5c0737eeb753bf0deb395a8bac04"
+    },
+    {
+      "path": "11_Manufacturing/LC6_corner_reference.step",
+      "bytes": 93865,
+      "sha256": "224c27a0e5099971844af0f3571dc3a46235441aeb3b27ea919ae466466b623d"
+    },
+    {
+      "path": "11_Manufacturing/LC8_打样工艺要求.md",
+      "bytes": 2580,
+      "sha256": "11d4586656101a8fcf6a6672855b479d8c841adb920c0c1f4d987156d68a481a"
+    },
+    {
+      "path": "11_Manufacturing/print_assumptions.json",
+      "bytes": 121,
+      "sha256": "1126ddd5e820696b74b7a9863b2fcac3ba30e965a0a9f298ad4f381b21be13f1"
+    },
+    {
+      "path": "11_Manufacturing/制造与装配说明.md",
+      "bytes": 2421,
+      "sha256": "60a66cc5e37faec3df225585cfbe9650ec05b5dcc70d36840ac36d05e420af68"
+    },
+    {
+      "path": "12_Prototype_Review/00_LC7_assembly_issue_before_fix.json",
+      "bytes": 550,
+      "sha256": "d44d8eb15b05b895be5581a5be9308f9dd0ddf951fa03e9870b93a94bf4e43b5"
+    },
+    {
+      "path": "12_Prototype_Review/00_打样结论.md",
+      "bytes": 1074,
+      "sha256": "43b34dfcf36ac8767e8fb7a70d7780ef79135dcc54129eb4d1c7b154f5f91694"
+    },
+    {
+      "path": "12_Prototype_Review/01_exported_files_audit.json",
+      "bytes": 5390,
+      "sha256": "932923dc1c379c4be30b8929f99dc3c89df56c53b14dcc324e42810d25cfdd03"
+    },
+    {
+      "path": "12_Prototype_Review/02_print_manifest.json",
+      "bytes": 1247,
+      "sha256": "c99f4a3d97f9b3df346a5927719d647f969e8bb32ddb2594d3ff475e2fbd6112"
+    },
+    {
+      "path": "12_Prototype_Review/03_optional_coupon_summary.json",
+      "bytes": 532,
+      "sha256": "21db2077f76905a3306c72d30e16f8f3fe7bff0753a56f79138197e303592c31"
+    },
+    {
+      "path": "12_Prototype_Review/04_handoff_and_coupon_verification.json",
+      "bytes": 608,
+      "sha256": "a736b5146ca0792dcfda3ef1cb93fc1caed36496941ed5c96c67bbea7fe7d5d0"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/00_READ_FIRST.md",
+      "bytes": 320,
+      "sha256": "de95ea70952db3cd18bde3c33e3293acbb6524c461b872dde53b7135d42038f5"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/COUPON_A_axis_1.step",
+      "bytes": 135632,
+      "sha256": "71180a8dcd7c9c08348130aee496dce4b1caa950b6dceebda5838bbe27a89acf"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/COUPON_A_axis_1.stl",
+      "bytes": 80584,
+      "sha256": "fef4f559726891047bf9c0c3c23654ba63dce38307b61ce7a5b2c01ce4ae87c7"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/COUPON_B_axis_1.step",
+      "bytes": 26061,
+      "sha256": "d2ac99d0a06d4919cb55fef477336c47e5d9653dacc3959f2e8bc51fc44efb8a"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/COUPON_B_axis_1.stl",
+      "bytes": 51284,
+      "sha256": "7f7945b29dfd862be4038ce090347bcaac3c3d4c022cded5adbb150cffcef1e2"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/COUPON_fan_corner_1.step",
+      "bytes": 104154,
+      "sha256": "4afe27706e6e63962169de4710ff587ca2b2effdfa3164864dd58945bb65056c"
+    },
+    {
+      "path": "12_Prototype_Review/OPTIONAL_FIT_COUPONS_NOT_PRODUCT/COUPON_fan_corner_1.stl",
+      "bytes": 18984,
+      "sha256": "9f82e9c0fda8972481bcd069b2f19549e2fd9eefe6fbbf7f154c40deedb66f14"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/00_给打印店_先确认再打印.md",
+      "bytes": 2580,
+      "sha256": "11d4586656101a8fcf6a6672855b479d8c841adb920c0c1f4d987156d68a481a"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/01_A_integrated_shell.stl",
+      "bytes": 538484,
+      "sha256": "958e6f57970dbec31a0061519f6fd4c1d94cbf16aac5a6ff308f3391d8cc929e"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/02_B_twin_louver.stl",
+      "bytes": 130384,
+      "sha256": "1afec5edaa204fd479fb1126926baf977ac64f2051f9bc7da225e19ed88754c7"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/03_C_printed_base_mount.stl",
+      "bytes": 286284,
+      "sha256": "2101e80e664ee9b9e62e2b6e6d31c36a62157a849e37548255d1318acb2a489f"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/04_D_Wrench_Racing_front_bezel.stl",
+      "bytes": 806284,
+      "sha256": "c3e528c4b39a664c220422eb644dfa096f6389d0059a4812db5d0066761de5eb"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/05_FILE_MANIFEST.json",
+      "bytes": 926,
+      "sha256": "afab501d18262f01fffd88b4b47a4ec0d54845e40820243e9969f1e77dad5187"
+    },
+    {
+      "path": "12_Prototype_Review/PRINT_SHOP_RIGHT_LC8/06_尺寸与理论用料.csv",
+      "bytes": 459,
+      "sha256": "456e05d83e07cfbbd46cf6e501dbcfe3427b2ffd19c5db3830fa483e7f588969"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1646,
+      "sha256": "343a7b1bf55e69d576a6520a2f19c3b54ececd2f8602c19f92eaaded1ee5f6f1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3645,
+      "sha256": "ed83cc7113905ba174716c3b1eb2a9a678ffa068bf04023fa0418f12dee9d9f2"
+    },
+    {
+      "path": "START_HERE_换机接续.md",
+      "bytes": 2981,
+      "sha256": "cac2784323d6b1565f79a4a00bcf4d80a83de709875879ca8c9fe880bc7dee92"
+    }
+  ]
+}

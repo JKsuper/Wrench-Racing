@@ -1,0 +1,1218 @@
+{
+  "revision": "LC8",
+  "parameters": {
+    "revision": "R4.13-LC8",
+    "fan_width": 120,
+    "fan_depth_min": 38,
+    "fan_depth_max": 40,
+    "fan_depth_default": 40,
+    "fan_hole_pitch_reference_only": 105,
+    "housing_inner_width": 121.6,
+    "housing_wall": 1.8,
+    "chamber_height": 43,
+    "fan_top_z": 2,
+    "seat_bottom_z": 3,
+    "seat_thickness": 2,
+    "cap_top_z": -40,
+    "cap_seal_installed": 1,
+    "air_inlet_diameter": 110,
+    "wire_port_width": 18,
+    "wire_port_height": 14,
+    "wire_port_corner_radius": 2,
+    "wire_hole_z": -24,
+    "connector_envelope": [
+      16,
+      18,
+      12
+    ],
+    "wall": 1.8,
+    "blade_thickness": 1.4,
+    "blade_chord": 14,
+    "pivot_y": 83,
+    "pivot_z": 67,
+    "pivot_hole_diameter": 4.8,
+    "pitch_limit_deg": 12,
+    "print_hand": "R",
+    "target_cost_per_side_cny_excluding_fan": 100,
+    "status": "GEOMETRY_PROTOTYPE_UNQUOTED",
+    "base_thickness": 4,
+    "base_screw_clearance": 4.8,
+    "pivot_screw_underhead_length": 16,
+    "pivot_nut_max_height": 3.5,
+    "cosmetic_clearance": 0.6,
+    "cosmetic_wall": 3,
+    "brand_text_size": 6,
+    "brand_relief": 0.8,
+    "profile_mount_hole_diameter": 7,
+    "profile_mount_bolt_sizes": [
+      4,
+      5,
+      6
+    ],
+    "profile_mount_plate_width": 68,
+    "profile_mount_plate_thickness": 6
+  },
+  "hand_for_print": "R",
+  "solids": {
+    "A_integrated_shell": {
+      "valid": true,
+      "count": 1,
+      "cm3": 160.87969025151935
+    },
+    "B_twin_louver": {
+      "valid": true,
+      "count": 1,
+      "cm3": 6.111575720402199
+    },
+    "C_printed_base_mount": {
+      "valid": true,
+      "count": 1,
+      "cm3": 57.87177053907981
+    },
+    "D_Wrench_Racing_front_bezel": {
+      "valid": true,
+      "count": 1,
+      "cm3": 9.799247058269975
+    }
+  },
+  "stl": {
+    "01_A_integrated_shell.stl": {
+      "triangles": 10768,
+      "bad_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 160889.85088946868
+    },
+    "02_B_twin_louver.stl": {
+      "triangles": 2606,
+      "bad_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 6111.510778206858
+    },
+    "03_C_printed_base_mount.stl": {
+      "triangles": 5724,
+      "bad_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 57887.79378008621
+    },
+    "04_D_Wrench_Racing_front_bezel.stl": {
+      "triangles": 16124,
+      "bad_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 9799.24628730077
+    }
+  },
+  "collisions": {
+    "A_integrated_shell / B_twin_louver": 0.0,
+    "A_integrated_shell / C_printed_base_mount": 0.0,
+    "A_integrated_shell / D_Wrench_Racing_front_bezel": 0.0,
+    "B_twin_louver / C_printed_base_mount": 0.0,
+    "B_twin_louver / D_Wrench_Racing_front_bezel": 0.0,
+    "C_printed_base_mount / D_Wrench_Racing_front_bezel": 0.0
+  },
+  "motion": [
+    {
+      "angle": -12.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -11.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -11.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -10.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -10.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -9.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -9.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -8.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -8.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -7.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -7.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -6.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -6.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -5.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -5.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -4.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -4.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -3.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -3.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -2.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -2.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -1.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -1.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": -0.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 0.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 0.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 1.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 1.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 2.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 2.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 3.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 3.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 4.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 4.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 5.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 5.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 6.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 6.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 7.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 7.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 8.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 8.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 9.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 9.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 10.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 10.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 11.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 11.5,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    {
+      "angle": 12.0,
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    }
+  ],
+  "fan_fit": {
+    "38": {
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "bottom_free_mm": 4,
+      "note": "40.5 x120.4 is a dimensional stress probe, not a certified fan size"
+    },
+    "39": {
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "bottom_free_mm": 3,
+      "note": "40.5 x120.4 is a dimensional stress probe, not a certified fan size"
+    },
+    "40": {
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "bottom_free_mm": 2,
+      "note": "40.5 x120.4 is a dimensional stress probe, not a certified fan size"
+    },
+    "40.5": {
+      "overlap_mm3": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "bottom_free_mm": 1.5,
+      "note": "40.5 x120.4 is a dimensional stress probe, not a certified fan size"
+    }
+  },
+  "installation": {
+    "upright": {
+      "fan_ENVELOPE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "fan_face_foam_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "cap_seal_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "base_foam_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "4040_OBSTRUCTION": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "slit_seal_PATCH_NOT_PRINT": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_screw_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_nut_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_outer_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_inner_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_friction_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_screw_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_nut_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_outer_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_inner_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_friction_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    },
+    "crossbar": {
+      "fan_ENVELOPE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "fan_face_foam_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "cap_seal_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "base_foam_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "4040_OBSTRUCTION": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "slit_seal_PATCH_NOT_PRINT": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_screw_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_nut_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_outer_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_inner_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_R_friction_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_screw_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_nut_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_outer_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_inner_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      },
+      "M4_L_friction_washer_REFERENCE": {
+        "A_integrated_shell": 0.0,
+        "B_twin_louver": 0.0,
+        "C_printed_base_mount": 0.0,
+        "D_Wrench_Racing_front_bezel": 0.0
+      }
+    }
+  },
+  "hardware_limit": "all threads, worm clamp, fan and 4040 are reference envelopes; no fastener certification",
+  "overtravel": {
+    "-13": 0.6453685776097371,
+    "-12.1": 0.020766161523797795,
+    "12.1": 0.010299873536358861,
+    "13": 0.31437990446353165
+  },
+  "clearances": {
+    "fan_side_per_side_nominal_mm": 0.7999999999999972,
+    "fan_side_per_side_for_120_4mm_frame_mm": 0.5999999999999943,
+    "axial_chamber_mm": 43,
+    "top_foam_installed_mm": 1,
+    "base_foam_installed_for_38_40_mm": [
+      4,
+      2
+    ],
+    "pivot_radial_clearance_to_M4_nominal_mm": 0.4,
+    "no_printed_threads_or_nut_traps": true,
+    "printed_holes": {
+      "shell_pivot": 2,
+      "core_pivot": 2,
+      "cable_port": 1,
+      "base_closure_pairs": 4,
+      "profile_mount": 3
+    },
+    "metal_structural_part_count": 0
+  },
+  "airpath": {
+    "valid": true,
+    "solids": 1,
+    "shells": 2,
+    "air_seed_is_void": true,
+    "scope": "exact nominal CAD closure of pressure-side airpath with temporary inlet/outlet/pivot plugs; fan chamber is deliberately outside this closed pressure domain",
+    "limits": "not a physical leakage test; actual fan gasket and moving pivots not certified"
+  },
+  "wire_port": {
+    "center": [
+      0,
+      -62.6,
+      -24
+    ],
+    "opening_mm": [
+      18,
+      14
+    ],
+    "corner_radius_mm": 2,
+    "drill_probe_void": true,
+    "connector_envelope_mm": [
+      16,
+      18,
+      12
+    ],
+    "source": "https://everconn.com/Uploads/2022-03-16/6231af3b8f931.pdf",
+    "limits": "4P KF2510-family reference, not a guarantee for every vendor. Pass connector BEFORE inserting fan; 0.8mm fan-side gap is not a connector route."
+  },
+  "connector_passage": {
+    "-90": 0.0,
+    "-88": 0.0,
+    "-86": 0.0,
+    "-84": 0.0,
+    "-82": 0.0,
+    "-80": 0.0,
+    "-78": 0.0,
+    "-76": 0.0,
+    "-74": 0.0,
+    "-72": 0.0,
+    "-70": 0.0,
+    "-68": 0.0,
+    "-66": 0.0,
+    "-64": 0.0,
+    "-62": 0.0,
+    "-60": 0.0,
+    "-58": 0.0,
+    "-56": 0.0,
+    "-54": 0.0,
+    "-52": 0.0,
+    "-50": 0.0
+  },
+  "pivot_bores_through": {
+    "-61": true,
+    "-59": true,
+    "-57": true,
+    "57": true,
+    "59": true,
+    "61": true
+  },
+  "cradle_insertion_path_mm3": {
+    "0": 0.0,
+    "10": 0.0,
+    "20": 0.0,
+    "30": 0.0,
+    "40": 0.0,
+    "50": 0.0,
+    "60": 0.0,
+    "70": 0.0,
+    "80": 0.0,
+    "90": 0.0,
+    "100": 0.0,
+    "110": 0.0,
+    "120": 0.0,
+    "130": 0.0,
+    "140": 0.0
+  },
+  "pivot_stack": {
+    "screw_underhead_mm": 16,
+    "outer_face_x": 61.5,
+    "inner_core_face_x": 52,
+    "flat_washers_total_mm": 1,
+    "nut_height_mm": 3.5,
+    "stack_to_nut_end_mm": 14,
+    "nominal_projection_mm": 2,
+    "friction_pad_installed_mm": 1.5,
+    "assumption": "non-countersunk screw, 0.5mm metal washer each side; threads omitted; ordinary hex nut requires loosening/holding test"
+  },
+  "four_way_mounts": {
+    "0_upright": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "0_crossbar": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "90_upright": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "90_crossbar": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "180_upright": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "180_crossbar": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "270_upright": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    },
+    "270_crossbar": {
+      "cap_shell_overlap": 0.0,
+      "profile_shell_overlap": 0.0,
+      "profile_cap_overlap": 0.0,
+      "profile_cover_overlap": 0.0,
+      "cap_cover_overlap": 0.0,
+      "note": "upright top Z=0; taller front uprights require cockpit-specific avoidance"
+    }
+  },
+  "cosmetic": {
+    "wall_mm": 3,
+    "clearance_mm": 0.6,
+    "brand": "Wrench Racing",
+    "text_height_mm": 6,
+    "relief_mm": 0.8,
+    "hand": "universal; export identical D for R/L to preserve readable logo",
+    "fixing": "2xM4x16 along Y below outlet, front ordinary nuts; total stack14, nominal projection2; separate from pivots and structural corners",
+    "PETG_net_g_at_1_27": 12.445043764002868,
+    "text_added_cm3": 0.054540500377985156
+  },
+  "front_bezel_removal_path": {
+    "0": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "0.5": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "1": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "2": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "5": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "10": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "20": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "40": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "80": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    },
+    "120": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0
+    }
+  },
+  "cosmetic_screw_routes": {
+    "-45": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0,
+      "D_Wrench_Racing_front_bezel": 0.0
+    },
+    "45": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0,
+      "D_Wrench_Racing_front_bezel": 0.0
+    }
+  },
+  "bezel_outlet_air_overlap_mm3": 0.0,
+  "intentional_center_web": {
+    "location": "removable D",
+    "nominal_height_mm": 2,
+    "note": "air-opening check excludes intentional centre styling web; no airflow performance claim"
+  },
+  "louver_front_insertion_mm3": {
+    "0": 0.0,
+    "0.5": 0.0,
+    "1": 0.0,
+    "2": 0.0,
+    "4": 0.0,
+    "6": 0.0,
+    "8": 0.0,
+    "10": 0.0,
+    "12": 0.0,
+    "16": 0.0,
+    "20": 0.0,
+    "30": 0.0,
+    "50": 0.0,
+    "80": 0.0,
+    "120": 0.0
+  },
+  "corner_reinforcement": {
+    "outer_local_pad_mm": [
+      28,
+      28
+    ],
+    "A_pad_z_mm": [
+      -39,
+      -34
+    ],
+    "C_pad_z_mm": [
+      -44,
+      -40
+    ],
+    "hole_diameter_mm": 4.8,
+    "corner_plate_edge_min_mm": 6.6,
+    "load_spread": "two adjacent housing walls plus 14mm-tall local root ribs",
+    "tool_access_radius_mm": 7,
+    "warning": "geometry only; no strength/FEM/creep certification"
+  },
+  "flat": {
+    "process": "printed polymer; no sheet metal or bend DXF",
+    "base_mm": 4,
+    "mount_wall_mm": 6,
+    "ribs_mm": 3
+  },
+  "profile_bolt_compatibility": {
+    "4": {
+      "(0, -29)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      },
+      "(0, -9)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      },
+      "(20, -29)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      }
+    },
+    "5": {
+      "(0, -29)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      },
+      "(0, -9)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      },
+      "(20, -29)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      }
+    },
+    "6": {
+      "(0, -29)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      },
+      "(0, -9)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      },
+      "(20, -29)": {
+        "shaft_C_overlap": 0.0,
+        "washer_C_overlap": 0.0,
+        "washer_A_overlap": 0.0,
+        "head_A_overlap": 0.0,
+        "head_C_overlap": 0.0
+      }
+    }
+  },
+  "profile_mount_interface": {
+    "through_hole_mm": 7,
+    "sizes_mm": [
+      4,
+      5,
+      6
+    ],
+    "washer_OD_checked_mm": 18,
+    "washer_thickness_checked_mm": 1.6,
+    "plate_mm": [
+      6,
+      68,
+      44
+    ],
+    "hole_centers_yz_mm": [
+      [
+        0,
+        -29
+      ],
+      [
+        0,
+        -9
+      ],
+      [
+        20,
+        -29
+      ]
+    ],
+    "mount_first": "Attach C to T nuts with tool access before fitting A/fan. Select bolt length from actual T-slot and T nut. M4 requires large washer."
+  },
+  "base_bolt_routes": {
+    "(-68, -68)": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0,
+      "D_Wrench_Racing_front_bezel": 0.0
+    },
+    "(-68, 68)": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0,
+      "D_Wrench_Racing_front_bezel": 0.0
+    },
+    "(68, -68)": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0,
+      "D_Wrench_Racing_front_bezel": 0.0
+    },
+    "(68, 68)": {
+      "A_integrated_shell": 0.0,
+      "B_twin_louver": 0.0,
+      "C_printed_base_mount": 0.0,
+      "D_Wrench_Racing_front_bezel": 0.0
+    }
+  },
+  "base_stack": {
+    "cap_mm": 4,
+    "seal_installed_mm": 1,
+    "ear_mm": 5,
+    "two_washers_mm": 1,
+    "nut_max_mm": 3.5,
+    "total_stack_mm": 14.5,
+    "M4x16_projection_mm": 1.5,
+    "assumptions": "non-countersunk underhead length16; each washer0.5; check measured hardware and pull-out/creep"
+  },
+  "base_screw_centers": [
+    [
+      -68,
+      -68
+    ],
+    [
+      -68,
+      68
+    ],
+    [
+      68,
+      -68
+    ],
+    [
+      68,
+      68
+    ]
+  ],
+  "volume_comparison": {
+    "LC3_printed_cm3": 150.40540449987708,
+    "LC8_printed_cm3": 234.66228356927132,
+    "LC3_print_part_count": 2,
+    "LC8_print_part_count": 4,
+    "note": "Structural mount converted to polymer; includes the newly printed base. Not a quote."
+  },
+  "source_sha256": {
+    "model.py": "57765cca990c002af7fc9c9a6203163d8fccdee8f9c2b3fca04ad792e9a4e44d",
+    "build.py": "c656ed6fa9237f08b38f537bf33a84ba7e25d828d91285c1475ba3e21500f977",
+    "parameters.json": "8f848a150868c25c68946651d1baa5ad9b80d8a9e87cac7dbf93d4ed332da9a7"
+  }
+}

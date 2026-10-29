@@ -1,0 +1,14 @@
+{
+  "sheet_mm": 2,
+  "inside_radius_mm": 2,
+  "assumed_K": 0.4,
+  "bend_angle_deg": 90,
+  "bend_count": 2,
+  "flat_width_mm": 44,
+  "flat_length_mm": 116.79645943005141,
+  "bend_centers_from_start_mm": [
+    36.19911485751285,
+    68.59734457253856
+  ],
+  "status": "supplier must verify K, bend deduction, relief and tolerances before cutting"
+}

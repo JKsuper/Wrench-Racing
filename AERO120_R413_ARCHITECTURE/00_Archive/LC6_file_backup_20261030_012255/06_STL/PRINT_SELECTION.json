@@ -1,0 +1,12 @@
+{
+  "hand": "R",
+  "fan_depth_range_mm": [
+    38,
+    40
+  ],
+  "physical_print_parts_per_side": 4,
+  "functional_core_parts": 3,
+  "cosmetic_D_optional": true,
+  "D_universal_hand_to_keep_text_readable": true,
+  "warning": "FOUR STL files: three functional parts plus one optional branded colour cover. Foam and screws/nuts are purchased. No metal bracket or clamp. --hand L replaces the same four filenames; D is universal and never mirrored."
+}

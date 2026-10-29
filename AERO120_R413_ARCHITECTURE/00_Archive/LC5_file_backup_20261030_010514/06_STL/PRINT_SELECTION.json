@@ -1,0 +1,9 @@
+{
+  "hand": "R",
+  "fan_depth_range_mm": [
+    38,
+    40
+  ],
+  "physical_print_parts_per_side": 3,
+  "warning": "THREE STL files: shell, louver and printed base/mount. Foam and screws/nuts are purchased. No metal bracket or clamp. --hand L replaces the same three filenames."
+}

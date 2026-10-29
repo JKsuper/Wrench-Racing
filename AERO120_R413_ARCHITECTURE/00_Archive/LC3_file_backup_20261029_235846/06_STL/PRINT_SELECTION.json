@@ -1,0 +1,9 @@
+{
+  "hand": "R",
+  "fan_depth_range_mm": [
+    38,
+    40
+  ],
+  "physical_print_parts_per_side": 2,
+  "warning": "Only these TWO STL files are printable parts. Metal cap/mount, stock clamp, foam and hardware are NOT printed. --hand L replaces these same two filenames with left mirror."
+}

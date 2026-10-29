@@ -1,0 +1,7 @@
+cannot open font 'C:\WINDOWS\Fonts\mstmc.ttf': Not a TrueType or OpenType font (bad sfntVersion)
+Cannot create cache home directory: 'C:\Users\nanwa\.cache\ezdxf', cache files will not be saved.
+See also issue https://github.com/mozman/ezdxf/issues/923.
+----------------------------------------------------------------------
+Ran 30 tests in 9.710s
+
+OK

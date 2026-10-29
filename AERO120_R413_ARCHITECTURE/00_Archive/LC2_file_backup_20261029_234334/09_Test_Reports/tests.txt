@@ -1,0 +1,22 @@
+cannot open font 'C:\WINDOWS\Fonts\mstmc.ttf': Not a TrueType or OpenType font (bad sfntVersion)
+Cannot create cache home directory: 'C:\Users\nanwa\.cache\ezdxf', cache files will not be saved.
+See also issue https://github.com/mozman/ezdxf/issues/923.
+test_both_installations_and_stock_envelopes (test_engineering.Engineering.test_both_installations_and_stock_envelopes) ... ok
+test_capped_pressure_airpath (test_engineering.Engineering.test_capped_pressure_airpath) ... ok
+test_cradle_slide_in_path (test_engineering.Engineering.test_cradle_slide_in_path) ... ok
+test_fan_38_to_40_and_dimensional_stress_probe (test_engineering.Engineering.test_fan_38_to_40_and_dimensional_stress_probe) ... ok
+test_nominal_part_collisions (test_engineering.Engineering.test_nominal_part_collisions) ... ok
+test_one_piece_metal_cap_mount (test_engineering.Engineering.test_one_piece_metal_cap_mount) ... ok
+test_only_two_print_STLs (test_engineering.Engineering.test_only_two_print_STLs) ... ok
+test_physical_stops (test_engineering.Engineering.test_physical_stops) ... ok
+test_pitch_motion (test_engineering.Engineering.test_pitch_motion) ... ok
+test_print_meshes (test_engineering.Engineering.test_print_meshes) ... ok
+test_source_matches_report (test_engineering.Engineering.test_source_matches_report) ... ok
+test_tolerance_allowances (test_engineering.Engineering.test_tolerance_allowances) ... ok
+test_valid_single_parts (test_engineering.Engineering.test_valid_single_parts) ... ok
+test_wire_port (test_engineering.Engineering.test_wire_port) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.012s
+
+OK

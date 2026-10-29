@@ -1,0 +1,36 @@
+cannot open font 'C:\WINDOWS\Fonts\mstmc.ttf': Not a TrueType or OpenType font (bad sfntVersion)
+Cannot create cache home directory: 'C:\Users\nanwa\.cache\ezdxf', cache files will not be saved.
+See also issue https://github.com/mozman/ezdxf/issues/923.
+test_M4_pivot_hole_size (test_engineering.Engineering.test_M4_pivot_hole_size) ... ok
+test_M4x16_base_stack (test_engineering.Engineering.test_M4x16_base_stack) ... ok
+test_M4x16_stack_has_full_nut_height (test_engineering.Engineering.test_M4x16_stack_has_full_nut_height) ... ok
+test_base_vertical_assembly_path (test_engineering.Engineering.test_base_vertical_assembly_path) ... ok
+test_both_installations_and_stock_envelopes (test_engineering.Engineering.test_both_installations_and_stock_envelopes) ... ok
+test_brand_has_solid_relief (test_engineering.Engineering.test_brand_has_solid_relief) ... ok
+test_capped_pressure_airpath (test_engineering.Engineering.test_capped_pressure_airpath) ... ok
+test_cosmetic_screws_clear_all_parts (test_engineering.Engineering.test_cosmetic_screws_clear_all_parts) ... ok
+test_fan_38_to_40_and_dimensional_stress_probe (test_engineering.Engineering.test_fan_38_to_40_and_dimensional_stress_probe) ... ok
+test_four_base_bolts_align (test_engineering.Engineering.test_four_base_bolts_align) ... ok
+test_four_pin_connector_passage_before_fan_installation (test_engineering.Engineering.test_four_pin_connector_passage_before_fan_installation) ... ok
+test_four_print_STLs (test_engineering.Engineering.test_four_print_STLs) ... ok
+test_four_way_mount_geometries (test_engineering.Engineering.test_four_way_mount_geometries) ... ok
+test_front_bezel_preserves_outlet_air_opening (test_engineering.Engineering.test_front_bezel_preserves_outlet_air_opening) ... ok
+test_front_bezel_pull_off_path (test_engineering.Engineering.test_front_bezel_pull_off_path) ... ok
+test_large_port_keeps_upper_and_lower_wall (test_engineering.Engineering.test_large_port_keeps_upper_and_lower_wall) ... ok
+test_nominal_part_collisions (test_engineering.Engineering.test_nominal_part_collisions) ... ok
+test_one_piece_printed_base_mount (test_engineering.Engineering.test_one_piece_printed_base_mount) ... ok
+test_physical_stops (test_engineering.Engineering.test_physical_stops) ... ok
+test_pitch_motion (test_engineering.Engineering.test_pitch_motion) ... ok
+test_pivot_bores_are_through (test_engineering.Engineering.test_pivot_bores_are_through) ... ok
+test_print_meshes (test_engineering.Engineering.test_print_meshes) ... ok
+test_reinforced_corner_bearing_material (test_engineering.Engineering.test_reinforced_corner_bearing_material) ... ok
+test_source_matches_report (test_engineering.Engineering.test_source_matches_report) ... ok
+test_tolerance_allowances (test_engineering.Engineering.test_tolerance_allowances) ... ok
+test_universal_cover_mirrored_core_clear (test_engineering.Engineering.test_universal_cover_mirrored_core_clear) ... ok
+test_valid_single_parts (test_engineering.Engineering.test_valid_single_parts) ... ok
+test_wire_port (test_engineering.Engineering.test_wire_port) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 10.437s
+
+OK

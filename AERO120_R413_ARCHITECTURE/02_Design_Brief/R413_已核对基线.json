@@ -1,0 +1,23 @@
+{
+  "source_version": "R4.12",
+  "source_path": "AERO120_R412_SEALED_ELBOW/04_Source/build_r412.py",
+  "geometry_baseline": {
+    "duct_volume_cm3": 296.5,
+    "fan_frame_mm": [120, 120],
+    "fan_depths_mm_checked_in_previous_model": [25, 38, 50, 55],
+    "fan_hole_pitch_mm": [105, 105],
+    "flange_outer_mm": [124, 124],
+    "flange_thickness_mm": 5,
+    "fan_hole_diameter_mm": 4.6,
+    "original_gaskets_per_module": 2,
+    "original_gasket_thickness_mm": 1.5
+  },
+  "r413_proposed_changes": [
+    "replace integral STRIKE grille with a detachable cosmetic nose",
+    "add a small adjustable, coupled two-vane insert",
+    "move structural sheet metal adapter outside fan/duct sealing stack",
+    "provide upright and crossbar adapters on common duct mounting bosses"
+  ],
+  "status": "architecture_only_no_R413_CAD_export",
+  "warnings": ["proposed interfaces not verified", "airflow and noise not measured", "metal bracket not structurally validated", "manufacturing costs unknown"]
+}

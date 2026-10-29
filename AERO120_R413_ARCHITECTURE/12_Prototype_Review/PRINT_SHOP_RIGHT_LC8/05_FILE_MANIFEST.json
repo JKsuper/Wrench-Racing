@@ -1,0 +1,31 @@
+{
+  "version": "R4.13-LC8",
+  "hand": "R",
+  "parts": [
+    {
+      "file": "01_A_integrated_shell.stl",
+      "quantity": 1,
+      "sha256": "958e6f57970dbec31a0061519f6fd4c1d94cbf16aac5a6ff308f3391d8cc929e",
+      "units": "mm"
+    },
+    {
+      "file": "02_B_twin_louver.stl",
+      "quantity": 1,
+      "sha256": "1afec5edaa204fd479fb1126926baf977ac64f2051f9bc7da225e19ed88754c7",
+      "units": "mm"
+    },
+    {
+      "file": "03_C_printed_base_mount.stl",
+      "quantity": 1,
+      "sha256": "2101e80e664ee9b9e62e2b6e6d31c36a62157a849e37548255d1318acb2a489f",
+      "units": "mm"
+    },
+    {
+      "file": "04_D_Wrench_Racing_front_bezel.stl",
+      "quantity": 1,
+      "sha256": "c3e528c4b39a664c220422eb644dfa096f6389d0059a4812db5d0066761de5eb",
+      "units": "mm"
+    }
+  ],
+  "status": "FIRST_ENGINEERING_PROTOTYPE; shop slicing and material/hardware fit signoff still required"
+}

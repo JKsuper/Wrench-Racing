@@ -1,0 +1,5 @@
+﻿item,rejected_local_reconstruction_cm3,LC1_cm3,basis
+A_duct,234.1640935868359,115.7782815020534,"CAD solid volume, not quote"
+B_STRIKE_mask,29.796424796047393,20.949065320651236,"CAD solid volume, not quote"
+C_twin_louver,13.682094698223846,6.178836902086865,"CAD solid volume, not quote"
+printed_total,277.64261308110713,142.9061837247915,"excludes gaskets, metal, hardware, supports and waste"

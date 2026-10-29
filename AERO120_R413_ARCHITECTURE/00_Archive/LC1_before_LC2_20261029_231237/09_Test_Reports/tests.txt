@@ -1,0 +1,22 @@
+cannot open font 'C:\WINDOWS\Fonts\mstmc.ttf': Not a TrueType or OpenType font (bad sfntVersion)
+Cannot create cache home directory: 'C:\Users\nanwa\.cache\ezdxf', cache files will not be saved.
+See also issue https://github.com/mozman/ezdxf/issues/923.
+test_all_nominal_part_pairs (test_engineering.EngineeringTests.test_all_nominal_part_pairs) ... ok
+test_blind_boss_does_not_open_airwall (test_engineering.EngineeringTests.test_blind_boss_does_not_open_airwall) ... ok
+test_both_4040_obstruction_envelopes (test_engineering.EngineeringTests.test_both_4040_obstruction_envelopes) ... ok
+test_both_hand_mesh_topology_and_volume (test_engineering.EngineeringTests.test_both_hand_mesh_topology_and_volume) ... ok
+test_capped_body_has_enclosed_air_cavity (test_engineering.EngineeringTests.test_capped_body_has_enclosed_air_cavity) ... ok
+test_fixed_interface_hole_centers (test_engineering.EngineeringTests.test_fixed_interface_hole_centers) ... ok
+test_four_fan_depths_and_example_cable (test_engineering.EngineeringTests.test_four_fan_depths_and_example_cable) ... ok
+test_half_degree_motion_samples (test_engineering.EngineeringTests.test_half_degree_motion_samples) ... ok
+test_hidden_mask_screw_tool_access (test_engineering.EngineeringTests.test_hidden_mask_screw_tool_access) ... ok
+test_overtravel_hits_physical_stops (test_engineering.EngineeringTests.test_overtravel_hits_physical_stops) ... ok
+test_report_matches_current_sources (test_engineering.EngineeringTests.test_report_matches_current_sources) ... ok
+test_seal_face_land_volume (test_engineering.EngineeringTests.test_seal_face_land_volume) ... ok
+test_valid_single_solids (test_engineering.EngineeringTests.test_valid_single_solids) ... ok
+test_volume_budget (test_engineering.EngineeringTests.test_volume_budget) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 3.360s
+
+OK

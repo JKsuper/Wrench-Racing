@@ -1,0 +1,926 @@
+{
+  "revision": "R4.13-LC1",
+  "status": "GEOMETRY_CANDIDATE_NOT_RELEASED",
+  "parameters": {
+    "revision": "R4.13-LC1",
+    "target_cost_cny_per_side_excluding_fan": 100,
+    "fan_frame": 120,
+    "fan_depth_default": 38,
+    "fan_depth_checks": [
+      25,
+      38,
+      50,
+      55
+    ],
+    "fan_pitch": 105,
+    "fan_hole": 4.6,
+    "flange_size": 124,
+    "flange_thickness": 5,
+    "inlet_diameter": 110,
+    "wall": 1.8,
+    "mask_wall": 1.8,
+    "blade_thickness": 1.4,
+    "blade_chord": 14,
+    "pivot_y": 94,
+    "pivot_z": 67,
+    "front_shift_y": -11,
+    "pitch_limit_deg": 12,
+    "sheet_thickness": 2,
+    "sheet_inside_radius": 2,
+    "gasket_fan_uncompressed": 1.5,
+    "gasket_fan_installed": 1.0,
+    "polymer_volume_budget_cm3": 150,
+    "cost_status": "UNQUOTED; target, not a price promise"
+  },
+  "solids": {
+    "A_duct": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 115.7782815020534,
+      "bbox_mm": [
+        125.0,
+        135.00000010000002,
+        96.00000010000008
+      ]
+    },
+    "B_STRIKE_mask": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 20.949065320651236,
+      "bbox_mm": [
+        119.00122921214314,
+        35.00000020000002,
+        71.05000020000003
+      ]
+    },
+    "C_twin_louver": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 6.178836902086865,
+      "bbox_mm": [
+        112.00046477106235,
+        21.50009298178601,
+        32.00000020000005
+      ]
+    },
+    "D_common_bracket": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 10.016079602762284,
+      "bbox_mm": [
+        36.0,
+        44.0,
+        50.0
+      ]
+    },
+    "E_fan_gasket_installed": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 5.800299928152165,
+      "bbox_mm": [
+        124.0,
+        124.0,
+        1.0
+      ]
+    },
+    "F_mask_gasket_installed": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 0.6399999999999045,
+      "bbox_mm": [
+        114.0000002,
+        1.0000002000000023,
+        58.000000199999995
+      ]
+    },
+    "washer_-15_30": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 0.034361169648638355,
+      "bbox_mm": [
+        1.0,
+        8.0,
+        8.0
+      ]
+    },
+    "washer_-15_50": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 0.034361169648638355,
+      "bbox_mm": [
+        1.0,
+        8.0,
+        8.0
+      ]
+    },
+    "washer_15_30": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 0.034361169648638355,
+      "bbox_mm": [
+        1.0,
+        8.0,
+        8.0
+      ]
+    },
+    "washer_15_50": {
+      "valid": true,
+      "solid_count": 1,
+      "volume_cm3": 0.034361169648638355,
+      "bbox_mm": [
+        1.0,
+        8.0,
+        8.0
+      ]
+    }
+  },
+  "meshes": {
+    "R_A_duct": {
+      "triangles": 9144,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 115797.56848014926
+    },
+    "L_A_duct": {
+      "triangles": 9144,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 115797.56848015019
+    },
+    "R_B_STRIKE_mask": {
+      "triangles": 3654,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 20949.018267018124
+    },
+    "L_B_STRIKE_mask": {
+      "triangles": 3654,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 20949.018267018124
+    },
+    "R_C_twin_louver": {
+      "triangles": 2654,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 6178.678654689522
+    },
+    "L_C_twin_louver": {
+      "triangles": 2654,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 6178.678654689522
+    },
+    "R_D_common_bracket": {
+      "triangles": 4604,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 10015.878097203888
+    },
+    "L_D_common_bracket": {
+      "triangles": 4604,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 10015.878097203888
+    },
+    "R_E_fan_gasket_installed": {
+      "triangles": 2552,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 5804.268010659051
+    },
+    "L_E_fan_gasket_installed": {
+      "triangles": 2552,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 5804.268010659051
+    },
+    "R_F_mask_gasket_installed": {
+      "triangles": 64,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 640.000000000003
+    },
+    "L_F_mask_gasket_installed": {
+      "triangles": 64,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 640.000000000003
+    },
+    "R_washer_-15_30": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.34692955151551
+    },
+    "L_washer_-15_30": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.34692955151551
+    },
+    "R_washer_-15_50": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.346929630242784
+    },
+    "L_washer_-15_50": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.346929630242784
+    },
+    "R_washer_15_30": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.346929551515835
+    },
+    "L_washer_15_30": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.346929551515835
+    },
+    "R_washer_15_50": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.34692963024283
+    },
+    "L_washer_15_50": {
+      "triangles": 1008,
+      "non_manifold_edges": 0,
+      "degenerate_triangles": 0,
+      "signed_volume_mm3": 34.34692963024283
+    }
+  },
+  "collisions": {
+    "A_duct / B_STRIKE_mask": 0.0,
+    "A_duct / C_twin_louver": 0.0,
+    "A_duct / D_common_bracket": 0.0,
+    "A_duct / E_fan_gasket_installed": 0.0,
+    "A_duct / F_mask_gasket_installed": 0.0,
+    "A_duct / washer_-15_30": 0.0,
+    "A_duct / washer_-15_50": 0.0,
+    "A_duct / washer_15_30": 0.0,
+    "A_duct / washer_15_50": 0.0,
+    "B_STRIKE_mask / C_twin_louver": 0.0,
+    "B_STRIKE_mask / D_common_bracket": 0.0,
+    "B_STRIKE_mask / E_fan_gasket_installed": 0.0,
+    "B_STRIKE_mask / F_mask_gasket_installed": 0.0,
+    "B_STRIKE_mask / washer_-15_30": 0.0,
+    "B_STRIKE_mask / washer_-15_50": 0.0,
+    "B_STRIKE_mask / washer_15_30": 0.0,
+    "B_STRIKE_mask / washer_15_50": 0.0,
+    "C_twin_louver / D_common_bracket": 0.0,
+    "C_twin_louver / E_fan_gasket_installed": 0.0,
+    "C_twin_louver / F_mask_gasket_installed": 0.0,
+    "C_twin_louver / washer_-15_30": 0.0,
+    "C_twin_louver / washer_-15_50": 0.0,
+    "C_twin_louver / washer_15_30": 0.0,
+    "C_twin_louver / washer_15_50": 0.0,
+    "D_common_bracket / E_fan_gasket_installed": 0.0,
+    "D_common_bracket / F_mask_gasket_installed": 0.0,
+    "D_common_bracket / washer_-15_30": 0.0,
+    "D_common_bracket / washer_-15_50": 0.0,
+    "D_common_bracket / washer_15_30": 0.0,
+    "D_common_bracket / washer_15_50": 0.0,
+    "E_fan_gasket_installed / F_mask_gasket_installed": 0.0,
+    "E_fan_gasket_installed / washer_-15_30": 0.0,
+    "E_fan_gasket_installed / washer_-15_50": 0.0,
+    "E_fan_gasket_installed / washer_15_30": 0.0,
+    "E_fan_gasket_installed / washer_15_50": 0.0,
+    "F_mask_gasket_installed / washer_-15_30": 0.0,
+    "F_mask_gasket_installed / washer_-15_50": 0.0,
+    "F_mask_gasket_installed / washer_15_30": 0.0,
+    "F_mask_gasket_installed / washer_15_50": 0.0,
+    "washer_-15_30 / washer_-15_50": 0.0,
+    "washer_-15_30 / washer_15_30": 0.0,
+    "washer_-15_30 / washer_15_50": 0.0,
+    "washer_-15_50 / washer_15_30": 0.0,
+    "washer_-15_50 / washer_15_50": 0.0,
+    "washer_15_30 / washer_15_50": 0.0
+  },
+  "motion": [
+    {
+      "angle_deg": -12.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -11.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -11.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -10.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -10.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -9.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -9.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -8.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -8.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -7.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -7.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -6.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -6.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -5.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -5.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -4.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -4.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -3.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -3.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -2.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -2.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -1.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -1.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": -0.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 0.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 0.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 1.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 1.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 2.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 2.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 3.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 3.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 4.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 4.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 5.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 5.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 6.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 6.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 7.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 7.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 8.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 8.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 9.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 9.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 10.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 10.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 11.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 11.5,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    },
+    {
+      "angle_deg": 12.0,
+      "overlap_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "D_common_bracket": 0.0
+      }
+    }
+  ],
+  "fan_envelopes": {
+    "25": {
+      "fan_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      },
+      "example_side_cable_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      }
+    },
+    "38": {
+      "fan_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      },
+      "example_side_cable_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      }
+    },
+    "50": {
+      "fan_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      },
+      "example_side_cable_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      }
+    },
+    "55": {
+      "fan_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      },
+      "example_side_cable_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      }
+    }
+  },
+  "installation_modes": {
+    "upright": {
+      "4040_obstruction_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      },
+      "note": "solid 4040 obstruction only; T-slot profile, T nuts, corner gussets and cockpit dimensions require real hardware review"
+    },
+    "crossbar": {
+      "4040_obstruction_overlaps_mm3": {
+        "A_duct": 0.0,
+        "B_STRIKE_mask": 0.0,
+        "C_twin_louver": 0.0,
+        "D_common_bracket": 0.0,
+        "E_fan_gasket_installed": 0.0,
+        "F_mask_gasket_installed": 0.0,
+        "washer_-15_30": 0.0,
+        "washer_-15_50": 0.0,
+        "washer_15_30": 0.0,
+        "washer_15_50": 0.0
+      },
+      "note": "solid 4040 obstruction only; T-slot profile, T nuts, corner gussets and cockpit dimensions require real hardware review"
+    }
+  },
+  "coupons": {
+    "A_duct_fit_coupon_1": {
+      "valid": true,
+      "volume_cm3": 1.6475481001317698
+    },
+    "B_STRIKE_mask_fit_coupon_1": {
+      "valid": true,
+      "volume_cm3": 4.146878249934344
+    },
+    "C_twin_louver_fit_coupon_1": {
+      "valid": true,
+      "volume_cm3": 1.4271956967693158
+    }
+  },
+  "overtravel_stops": {
+    "-13": 0.6453685776097815,
+    "-12.1": 0.020766161523806823,
+    "12.1": 0.010299873536358518,
+    "13": 0.3143799044634958
+  },
+  "mask_screw_tool_access": {
+    "-40": {
+      "A_duct": 0.0,
+      "B_STRIKE_mask": 0.0,
+      "C_twin_louver": 0.0,
+      "D_common_bracket": 0.0,
+      "E_fan_gasket_installed": 0.0,
+      "F_mask_gasket_installed": 0.0,
+      "washer_-15_30": 0.0,
+      "washer_-15_50": 0.0,
+      "washer_15_30": 0.0,
+      "washer_15_50": 0.0
+    },
+    "40": {
+      "A_duct": 0.0,
+      "B_STRIKE_mask": 0.0,
+      "C_twin_louver": 0.0,
+      "D_common_bracket": 0.0,
+      "E_fan_gasket_installed": 0.0,
+      "F_mask_gasket_installed": 0.0,
+      "washer_-15_30": 0.0,
+      "washer_-15_50": 0.0,
+      "washer_15_30": 0.0,
+      "washer_15_50": 0.0
+    }
+  },
+  "flat_pattern": {
+    "sheet_mm": 2,
+    "inside_radius_mm": 2,
+    "assumed_K": 0.4,
+    "bend_angle_deg": 90,
+    "bend_count": 2,
+    "flat_width_mm": 44,
+    "flat_length_mm": 116.79645943005141,
+    "bend_centers_from_start_mm": [
+      36.19911485751285,
+      68.59734457253856
+    ],
+    "status": "supplier must verify K, bend deduction, relief and tolerances before cutting"
+  },
+  "cost_geometry": {
+    "new_printed_parts_cm3": 142.9061837247915,
+    "old_rejected_reconstruction_printed_parts_cm3": 277.64261308110713,
+    "reduction_vs_rejected_percent": 48.52872830330096,
+    "R412_documented_duct_only_cm3": 296.5,
+    "new_duct_only_cm3": 115.7782815020534,
+    "duct_reduction_vs_documented_R412_percent": 60.95167571600222,
+    "warning": "R412 comparison from design brief only, original CAD missing. Volume is not price. No slicing or quote."
+  },
+  "blind_boss_remaining_nominal_air_wall_mm": 3.5999999999999943,
+  "capped_body_air_closure": {
+    "valid": true,
+    "solid_count": 1,
+    "shell_count": 2,
+    "shell_volumes_mm3": [
+      1225559.9244875987,
+      1059457.8248697286
+    ],
+    "sealed_air_seed_still_void": true,
+    "method": "A only: exact B-rep with temporary caps over inlet, outlet and four fan screw ports; expect one solid and two shells, one inner air cavity",
+    "limitations": "Does not verify assembled A-B seam, moving pivot leakage, print porosity, fastener sealing or physical airtightness"
+  },
+  "source_sha256": {
+    "model.py": "e8a1abeca25fe099779fa43018d71d1cf32e7de99dd6d2905a4e0eb1840fefc6",
+    "parameters.json": "ea9ab94991abf0e20de0a50ce584c1066cd1e30112d54eee5d120e333a773da1",
+    "build.py": "588e388b2cf37aefc18128bfd9048832a532b50d33c41d1ed861fc00e693a112",
+    "airpath.py": "54c61e32e6e1294162703aad67b02c43231892229a96afd8cbf315ba92997c81"
+  }
+}

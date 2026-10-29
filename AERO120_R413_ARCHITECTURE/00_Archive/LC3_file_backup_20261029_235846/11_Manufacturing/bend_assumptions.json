@@ -1,0 +1,14 @@
+{
+  "sheet_thickness_mm": 1.5,
+  "inside_bend_radius_mm": 1.5,
+  "assumed_K": 0.4,
+  "bend_count": 2,
+  "flat_center_mm": [
+    128,
+    128
+  ],
+  "left_tab_straight_mm": 35.5,
+  "right_tab_straight_mm": 83.5,
+  "bend_allowance_each_mm": 3.2986722862692828,
+  "status": "quotation drawing only; supplier must calibrate K, relief, bend order and springback"
+}
